@@ -1,0 +1,448 @@
+{
+  "items": [
+    {
+      "description": "Not sure where to begin? These 6 apps are the most universally useful — install them first and thank yourself later.",
+      "items": [],
+      "title": "🚀 New to Mac? Start Here"
+    },
+    {
+      "description": "A fun, visually appealing script to detect Electron-based applications on your Mac.",
+      "items": [],
+      "title": "🔍 Electron App Detector"
+    },
+    {
+      "description": "One-line install and run:",
+      "items": [],
+      "title": "Quick Start"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "BackgroundMusic",
+          "description": "macOS audio utility to control volume per-app.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-06-10T08:58:49Z",
+            "owner": "kyleneideck",
+            "repo": "BackgroundMusic",
+            "stars": 19232
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Petrichor",
+          "description": "Offline music player with support for over 20 file formats and a lot of other features.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-08-12T12:53:52Z",
+            "owner": "kushalpandya",
+            "repo": "Petrichor",
+            "stars": 1594
+          }
+        }
+      ],
+      "title": "Audio & Music"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Maccy",
+          "description": "Lightweight clipboard manager with search.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-08-13T00:05:03Z",
+            "owner": "p0deje",
+            "repo": "Maccy",
+            "stars": 21146
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pesty",
+          "description": "Native clipboard manager with pinboards and keyboard-driven pasting.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-08-12T07:06:53Z",
+            "owner": "momenbasel",
+            "repo": "pesty",
+            "stars": 46
+          }
+        }
+      ],
+      "title": "Clipboard Managers"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "CodeEdit",
+          "description": "Native code editor for macOS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-08-04T20:03:00Z",
+            "owner": "CodeEditApp",
+            "repo": "CodeEdit",
+            "stars": 22981
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DevCleaner",
+          "description": "Clean Xcode cache and derived data.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-05-18T20:59:20Z",
+            "owner": "vashpan",
+            "repo": "xcode-dev-cleaner",
+            "stars": 1602
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SSH Keys Manager",
+          "description": "Native macOS app for managing SSH keys and SSH config entries.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-07-03T03:57:49Z",
+            "owner": "Stmol",
+            "repo": "ssh-keys-manager-macos-app",
+            "stars": 211
+          }
+        }
+      ],
+      "title": "Developer Tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Hidden Bar",
+          "description": "Hide menu bar items.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-06-15T19:25:30Z",
+            "owner": "dwarvesf",
+            "repo": "hidden",
+            "stars": 14549
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dozer",
+          "description": "Hide menu bar icons to give your Mac a cleaner look.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2023-11-30T13:45:27Z",
+            "owner": "Mortennn",
+            "repo": "Dozer",
+            "stars": 8720
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Itsyhome",
+          "description": "Smart home meets menu bar.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-08-10T09:38:51Z",
+            "owner": "nickustinov",
+            "repo": "itsyhome-macos",
+            "stars": 969
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DatWeatherDoe",
+          "description": "Simple menu bar weather app.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-03-06T21:12:22Z",
+            "owner": "inderdhir",
+            "repo": "DatWeatherDoe",
+            "stars": 537
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenQuack",
+          "description": "Transcribes a 5-minute clip in 2.8 s — local WhisperKit dictation, noise-robust. ~8 MB native Swift.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-07-23T03:00:13Z",
+            "owner": "larryxiao",
+            "repo": "openquack",
+            "stars": 47
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Headroom",
+          "description": "Live Claude Code session (5h) and weekly (7d) usage in your menu bar — zero network calls, reads what Claude Code already writes locally.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-06-26T21:17:12Z",
+            "owner": "patwalls",
+            "repo": "headroom",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Thaw",
+          "description": "Powerful menu bar management tool. Fork of Ice, lower resource usage.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-05T10:53:46Z",
+            "owner": "stonerl",
+            "repo": "Thaw",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "Menu Bar Apps"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Stats",
+          "description": "macOS system monitor.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-08-12T16:36:02Z",
+            "owner": "exelban",
+            "repo": "stats",
+            "stars": 41160
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MonitorControl",
+          "description": "Control external monitor brightness & volume like native displays.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-08-11T12:43:28Z",
+            "owner": "MonitorControl",
+            "repo": "MonitorControl",
+            "stars": 33952
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MonitorControl",
+          "description": "Control external display brightness and volume.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-08-11T12:43:28Z",
+            "owner": "MonitorControl",
+            "repo": "MonitorControl",
+            "stars": 33952
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Background Music",
+          "description": "Control audio per-application.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-06-10T08:58:49Z",
+            "owner": "kyleneideck",
+            "repo": "BackgroundMusic",
+            "stars": 19232
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AlDente",
+          "description": "Charge limiter to extend MacBook battery life.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-08-03T12:39:37Z",
+            "owner": "AppHouseKitchen",
+            "repo": "AlDente-Battery_Care_and_Monitoring",
+            "stars": 9149
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ClearDisk",
+          "description": "macOS menu bar utility that monitors 44+ developer cache paths and helps reclaim disk space.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-08-06T15:23:28Z",
+            "owner": "bysiber",
+            "repo": "cleardisk",
+            "stars": 572
+          }
+        }
+      ],
+      "title": "System Utilities"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "CodeEdit",
+          "description": "Native code editor for macOS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-08-04T20:03:00Z",
+            "owner": "CodeEditApp",
+            "repo": "CodeEdit",
+            "stars": 22981
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VimR",
+          "description": "Neovim GUI for macOS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-07-26T13:24:42Z",
+            "owner": "qvacua",
+            "repo": "vimr",
+            "stars": 6981
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Itsypad",
+          "description": "A tiny, fast scratchpad and clipboard manager.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-07-07T08:05:39Z",
+            "owner": "nickustinov",
+            "repo": "itsypad-macos",
+            "stars": 415
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Neon Vision Editor",
+          "description": "A lightweight and modern macOS code editor.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-08-13T09:08:52Z",
+            "owner": "h3pdesign",
+            "repo": "Neon-Vision-Editor",
+            "stars": 367
+          }
+        }
+      ],
+      "title": "Text Editors"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Yabai",
+          "description": "Tiling window manager for macOS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-06-14T12:40:07Z",
+            "owner": "asmvik",
+            "repo": "yabai",
+            "stars": 29453
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Loop",
+          "description": "Window management made elegant.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-08-09T16:22:23Z",
+            "owner": "mrkai77",
+            "repo": "Loop",
+            "stars": 11359
+          }
+        }
+      ],
+      "title": "Window Management"
+    },
+    {
+      "description": "We welcome contributions! Please read our Contributing Guidelines before submitting.",
+      "items": [],
+      "title": "Contributing"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Star History"
+    },
+    {
+      "description": "To the extent possible under law, the contributors have waived all copyright and related rights to this work.\n💡 Found a great native macOS app? Submit it here!\n⭐ If you find this list useful, please star the repo to help others discover it!\n🔗 Share: Twitter | Reddit",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T10:35:51.642Z",
+    "original_repository": "open-saas-directory/awesome-native-macosx-apps",
+    "original_repository_sha": "2dfcead7f37cfe77b138abb5e46452d515795d5a",
+    "enhanced_repository": "enhansome/enhansome-native-macosx-apps",
+    "enhanced_repository_description": null,
+    "title": "Awesome Native macOS Apps — The Best Non-Electron Mac Software (2026) with stars"
+  }
+}

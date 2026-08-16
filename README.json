@@ -29,7 +29,7 @@
             "last_commit": "2026-06-10T08:58:49Z",
             "owner": "kyleneideck",
             "repo": "BackgroundMusic",
-            "stars": 19233
+            "stars": 19236
           }
         },
         {
@@ -43,7 +43,7 @@
             "last_commit": "2026-08-12T12:53:52Z",
             "owner": "kushalpandya",
             "repo": "Petrichor",
-            "stars": 1596
+            "stars": 1598
           }
         }
       ],
@@ -63,7 +63,7 @@
             "last_commit": "2026-08-13T00:05:03Z",
             "owner": "p0deje",
             "repo": "Maccy",
-            "stars": 21168
+            "stars": 21177
           }
         },
         {
@@ -97,7 +97,7 @@
             "last_commit": "2026-08-04T20:03:00Z",
             "owner": "CodeEditApp",
             "repo": "CodeEdit",
-            "stars": 22980
+            "stars": 22981
           }
         },
         {
@@ -111,7 +111,7 @@
             "last_commit": "2026-05-18T20:59:20Z",
             "owner": "vashpan",
             "repo": "xcode-dev-cleaner",
-            "stars": 1603
+            "stars": 1602
           }
         },
         {
@@ -145,7 +145,7 @@
             "last_commit": "2026-06-15T19:25:30Z",
             "owner": "dwarvesf",
             "repo": "hidden",
-            "stars": 14572
+            "stars": 14574
           }
         },
         {
@@ -159,7 +159,7 @@
             "last_commit": "2023-11-30T13:45:27Z",
             "owner": "Mortennn",
             "repo": "Dozer",
-            "stars": 8720
+            "stars": 8718
           }
         },
         {
@@ -173,7 +173,7 @@
             "last_commit": "2026-08-10T09:38:51Z",
             "owner": "nickustinov",
             "repo": "itsyhome-macos",
-            "stars": 979
+            "stars": 980
           }
         },
         {
@@ -249,7 +249,7 @@
             "last_commit": "2026-08-14T09:19:36Z",
             "owner": "exelban",
             "repo": "stats",
-            "stars": 41195
+            "stars": 41219
           }
         },
         {
@@ -263,7 +263,7 @@
             "last_commit": "2026-08-11T12:43:28Z",
             "owner": "MonitorControl",
             "repo": "MonitorControl",
-            "stars": 33970
+            "stars": 33978
           }
         },
         {
@@ -277,7 +277,7 @@
             "last_commit": "2026-08-11T12:43:28Z",
             "owner": "MonitorControl",
             "repo": "MonitorControl",
-            "stars": 33970
+            "stars": 33978
           }
         },
         {
@@ -291,7 +291,7 @@
             "last_commit": "2026-06-10T08:58:49Z",
             "owner": "kyleneideck",
             "repo": "BackgroundMusic",
-            "stars": 19233
+            "stars": 19236
           }
         },
         {
@@ -305,7 +305,7 @@
             "last_commit": "2026-08-03T12:39:37Z",
             "owner": "AppHouseKitchen",
             "repo": "AlDente-Battery_Care_and_Monitoring",
-            "stars": 9152
+            "stars": 9155
           }
         },
         {
@@ -339,7 +339,7 @@
             "last_commit": "2026-08-04T20:03:00Z",
             "owner": "CodeEditApp",
             "repo": "CodeEdit",
-            "stars": 22980
+            "stars": 22981
           }
         },
         {
@@ -364,7 +364,7 @@
           "repo_info": {
             "archived": false,
             "language": "Swift",
-            "last_commit": "2026-07-07T08:05:39Z",
+            "last_commit": "2026-08-15T16:25:29Z",
             "owner": "nickustinov",
             "repo": "itsypad-macos",
             "stars": 415
@@ -378,10 +378,10 @@
           "repo_info": {
             "archived": false,
             "language": "Swift",
-            "last_commit": "2026-08-15T09:27:25Z",
+            "last_commit": "2026-08-16T09:32:01Z",
             "owner": "h3pdesign",
             "repo": "Neon-Vision-Editor",
-            "stars": 369
+            "stars": 377
           }
         }
       ],
@@ -401,7 +401,7 @@
             "last_commit": "2026-06-14T12:40:07Z",
             "owner": "asmvik",
             "repo": "yabai",
-            "stars": 29462
+            "stars": 29465
           }
         },
         {
@@ -415,7 +415,7 @@
             "last_commit": "2026-08-09T16:22:23Z",
             "owner": "mrkai77",
             "repo": "Loop",
-            "stars": 11366
+            "stars": 11368
           }
         }
       ],
@@ -438,7 +438,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T09:50:02.714Z",
+    "last_updated": "2026-08-16T09:51:22.587Z",
     "original_repository": "open-saas-directory/awesome-native-macosx-apps",
     "original_repository_sha": "2dfcead7f37cfe77b138abb5e46452d515795d5a",
     "enhanced_repository": "enhansome/enhansome-native-macosx-apps",

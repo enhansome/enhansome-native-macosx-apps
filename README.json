@@ -29,7 +29,7 @@
             "last_commit": "2026-06-10T08:58:49Z",
             "owner": "kyleneideck",
             "repo": "BackgroundMusic",
-            "stars": 19236
+            "stars": 19234
           }
         },
         {
@@ -43,7 +43,7 @@
             "last_commit": "2026-08-12T12:53:52Z",
             "owner": "kushalpandya",
             "repo": "Petrichor",
-            "stars": 1598
+            "stars": 1600
           }
         }
       ],
@@ -63,7 +63,7 @@
             "last_commit": "2026-08-13T00:05:03Z",
             "owner": "p0deje",
             "repo": "Maccy",
-            "stars": 21177
+            "stars": 21186
           }
         },
         {
@@ -77,7 +77,7 @@
             "last_commit": "2026-08-12T07:06:53Z",
             "owner": "momenbasel",
             "repo": "pesty",
-            "stars": 48
+            "stars": 49
           }
         }
       ],
@@ -97,7 +97,7 @@
             "last_commit": "2026-08-04T20:03:00Z",
             "owner": "CodeEditApp",
             "repo": "CodeEdit",
-            "stars": 22981
+            "stars": 22984
           }
         },
         {
@@ -111,7 +111,7 @@
             "last_commit": "2026-05-18T20:59:20Z",
             "owner": "vashpan",
             "repo": "xcode-dev-cleaner",
-            "stars": 1602
+            "stars": 1603
           }
         },
         {
@@ -125,7 +125,7 @@
             "last_commit": "2026-07-03T03:57:49Z",
             "owner": "Stmol",
             "repo": "ssh-keys-manager-macos-app",
-            "stars": 213
+            "stars": 214
           }
         }
       ],
@@ -145,7 +145,7 @@
             "last_commit": "2026-06-15T19:25:30Z",
             "owner": "dwarvesf",
             "repo": "hidden",
-            "stars": 14574
+            "stars": 14580
           }
         },
         {
@@ -159,7 +159,7 @@
             "last_commit": "2023-11-30T13:45:27Z",
             "owner": "Mortennn",
             "repo": "Dozer",
-            "stars": 8718
+            "stars": 8717
           }
         },
         {
@@ -173,7 +173,7 @@
             "last_commit": "2026-08-10T09:38:51Z",
             "owner": "nickustinov",
             "repo": "itsyhome-macos",
-            "stars": 980
+            "stars": 981
           }
         },
         {
@@ -202,6 +202,20 @@
             "owner": "larryxiao",
             "repo": "openquack",
             "stars": 47
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Holeberry",
+          "description": "Monitor and control your Pi-hole instances from the menu bar.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-08-16T22:20:26Z",
+            "owner": "pedrovieira",
+            "repo": "Holeberry",
+            "stars": 39
           }
         },
         {
@@ -246,10 +260,10 @@
           "repo_info": {
             "archived": false,
             "language": "Swift",
-            "last_commit": "2026-08-14T09:19:36Z",
+            "last_commit": "2026-08-16T18:08:25Z",
             "owner": "exelban",
             "repo": "stats",
-            "stars": 41219
+            "stars": 41235
           }
         },
         {
@@ -263,7 +277,7 @@
             "last_commit": "2026-08-11T12:43:28Z",
             "owner": "MonitorControl",
             "repo": "MonitorControl",
-            "stars": 33978
+            "stars": 33984
           }
         },
         {
@@ -277,7 +291,7 @@
             "last_commit": "2026-08-11T12:43:28Z",
             "owner": "MonitorControl",
             "repo": "MonitorControl",
-            "stars": 33978
+            "stars": 33984
           }
         },
         {
@@ -291,7 +305,7 @@
             "last_commit": "2026-06-10T08:58:49Z",
             "owner": "kyleneideck",
             "repo": "BackgroundMusic",
-            "stars": 19236
+            "stars": 19234
           }
         },
         {
@@ -305,7 +319,7 @@
             "last_commit": "2026-08-03T12:39:37Z",
             "owner": "AppHouseKitchen",
             "repo": "AlDente-Battery_Care_and_Monitoring",
-            "stars": 9155
+            "stars": 9156
           }
         },
         {
@@ -319,7 +333,7 @@
             "last_commit": "2026-08-06T15:23:28Z",
             "owner": "bysiber",
             "repo": "cleardisk",
-            "stars": 573
+            "stars": 575
           }
         }
       ],
@@ -339,7 +353,7 @@
             "last_commit": "2026-08-04T20:03:00Z",
             "owner": "CodeEditApp",
             "repo": "CodeEdit",
-            "stars": 22981
+            "stars": 22984
           }
         },
         {
@@ -353,7 +367,7 @@
             "last_commit": "2026-07-26T13:24:42Z",
             "owner": "qvacua",
             "repo": "vimr",
-            "stars": 6982
+            "stars": 6983
           }
         },
         {
@@ -378,10 +392,10 @@
           "repo_info": {
             "archived": false,
             "language": "Swift",
-            "last_commit": "2026-08-16T09:32:01Z",
+            "last_commit": "2026-08-17T08:39:06Z",
             "owner": "h3pdesign",
             "repo": "Neon-Vision-Editor",
-            "stars": 377
+            "stars": 382
           }
         }
       ],
@@ -401,7 +415,7 @@
             "last_commit": "2026-06-14T12:40:07Z",
             "owner": "asmvik",
             "repo": "yabai",
-            "stars": 29465
+            "stars": 29472
           }
         },
         {
@@ -415,7 +429,7 @@
             "last_commit": "2026-08-09T16:22:23Z",
             "owner": "mrkai77",
             "repo": "Loop",
-            "stars": 11368
+            "stars": 11374
           }
         }
       ],
@@ -438,9 +452,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T09:51:22.587Z",
+    "last_updated": "2026-08-17T10:05:27.398Z",
     "original_repository": "open-saas-directory/awesome-native-macosx-apps",
-    "original_repository_sha": "2dfcead7f37cfe77b138abb5e46452d515795d5a",
+    "original_repository_sha": "79167874371ec9ecd0896766291786be7aec11d2",
     "enhanced_repository": "enhansome/enhansome-native-macosx-apps",
     "enhanced_repository_description": null,
     "title": "Awesome Native macOS Apps — The Best Non-Electron Mac Software (2026) with stars"

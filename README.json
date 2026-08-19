@@ -1,22 +1,7 @@
 {
   "items": [
     {
-      "description": "Not sure where to begin? These 6 apps are the most universally useful — install them first and thank yourself later.",
-      "items": [],
-      "title": "🚀 New to Mac? Start Here"
-    },
-    {
-      "description": "A fun, visually appealing script to detect Electron-based applications on your Mac.",
-      "items": [],
-      "title": "🔍 Electron App Detector"
-    },
-    {
-      "description": "One-line install and run:",
-      "items": [],
-      "title": "Quick Start"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -25,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 52422583,
             "language": "C++",
             "last_commit": "2026-06-10T08:58:49Z",
             "owner": "kyleneideck",
@@ -39,18 +25,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 969355437,
             "language": "Swift",
-            "last_commit": "2026-08-12T12:53:52Z",
+            "last_commit": "2026-08-18T22:41:20Z",
             "owner": "kushalpandya",
             "repo": "Petrichor",
-            "stars": 1603
+            "stars": 1605
           }
         }
       ],
       "title": "Audio & Music"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -59,11 +46,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 119637215,
             "language": "Swift",
             "last_commit": "2026-08-13T00:05:03Z",
             "owner": "p0deje",
             "repo": "Maccy",
-            "stars": 21215
+            "stars": 21230
           }
         },
         {
@@ -73,18 +61,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1280789793,
             "language": "Swift",
             "last_commit": "2026-08-12T07:06:53Z",
             "owner": "momenbasel",
             "repo": "pesty",
-            "stars": 48
+            "stars": 49
           }
         }
       ],
       "title": "Clipboard Managers"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -93,11 +82,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 468515960,
             "language": "Swift",
-            "last_commit": "2026-08-04T20:03:00Z",
+            "last_commit": "2026-08-18T21:24:35Z",
             "owner": "CodeEditApp",
             "repo": "CodeEdit",
-            "stars": 22987
+            "stars": 22983
           }
         },
         {
@@ -107,6 +97,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 132659513,
             "language": "Swift",
             "last_commit": "2026-05-18T20:59:20Z",
             "owner": "vashpan",
@@ -121,18 +112,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1221607599,
             "language": "Swift",
             "last_commit": "2026-07-03T03:57:49Z",
             "owner": "Stmol",
             "repo": "ssh-keys-manager-macos-app",
-            "stars": 215
+            "stars": 216
           }
         }
       ],
       "title": "Developer Tools"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -141,11 +133,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 170244456,
             "language": "Swift",
             "last_commit": "2026-06-15T19:25:30Z",
             "owner": "dwarvesf",
             "repo": "hidden",
-            "stars": 14584
+            "stars": 14591
           }
         },
         {
@@ -155,11 +148,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 150961965,
             "language": "Swift",
             "last_commit": "2023-11-30T13:45:27Z",
             "owner": "Mortennn",
             "repo": "Dozer",
-            "stars": 8717
+            "stars": 8714
           }
         },
         {
@@ -169,6 +163,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1138336035,
             "language": "Swift",
             "last_commit": "2026-08-10T09:38:51Z",
             "owner": "nickustinov",
@@ -183,11 +178,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 49980979,
             "language": "Swift",
             "last_commit": "2026-03-06T21:12:22Z",
             "owner": "inderdhir",
             "repo": "DatWeatherDoe",
-            "stars": 537
+            "stars": 536
           }
         },
         {
@@ -197,6 +193,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1224861741,
             "language": "Swift",
             "last_commit": "2026-08-18T07:01:06Z",
             "owner": "larryxiao",
@@ -211,11 +208,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1265408951,
             "language": "Swift",
-            "last_commit": "2026-08-18T01:47:05Z",
+            "last_commit": "2026-08-19T00:58:56Z",
             "owner": "pedrovieira",
             "repo": "Holeberry",
-            "stars": 40
+            "stars": 45
           }
         },
         {
@@ -225,6 +223,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1264424867,
             "language": "JavaScript",
             "last_commit": "2026-06-26T21:17:12Z",
             "owner": "patwalls",
@@ -239,6 +238,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1314956643,
             "language": null,
             "last_commit": "2026-08-17T20:06:32Z",
             "owner": "stonerl",
@@ -250,7 +250,7 @@
       "title": "Menu Bar Apps"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -259,11 +259,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 189285554,
             "language": "Swift",
-            "last_commit": "2026-08-17T17:57:26Z",
+            "last_commit": "2026-08-18T16:50:06Z",
             "owner": "exelban",
             "repo": "stats",
-            "stars": 41256
+            "stars": 41284
           }
         },
         {
@@ -273,11 +274,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 103784142,
             "language": "Swift",
             "last_commit": "2026-08-11T12:43:28Z",
             "owner": "MonitorControl",
             "repo": "MonitorControl",
-            "stars": 33989
+            "stars": 33993
           }
         },
         {
@@ -287,11 +289,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 103784142,
             "language": "Swift",
             "last_commit": "2026-08-11T12:43:28Z",
             "owner": "MonitorControl",
             "repo": "MonitorControl",
-            "stars": 33989
+            "stars": 33993
           }
         },
         {
@@ -301,6 +304,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 52422583,
             "language": "C++",
             "last_commit": "2026-06-10T08:58:49Z",
             "owner": "kyleneideck",
@@ -315,11 +319,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 240818838,
             "language": "Swift",
             "last_commit": "2026-08-03T12:39:37Z",
             "owner": "AppHouseKitchen",
             "repo": "AlDente-Battery_Care_and_Monitoring",
-            "stars": 9156
+            "stars": 9157
           }
         },
         {
@@ -329,6 +334,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1169516628,
             "language": "Swift",
             "last_commit": "2026-08-06T15:23:28Z",
             "owner": "bysiber",
@@ -340,7 +346,7 @@
       "title": "System Utilities"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -349,11 +355,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 468515960,
             "language": "Swift",
-            "last_commit": "2026-08-04T20:03:00Z",
+            "last_commit": "2026-08-18T21:24:35Z",
             "owner": "CodeEditApp",
             "repo": "CodeEdit",
-            "stars": 22987
+            "stars": 22983
           }
         },
         {
@@ -363,11 +370,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 17300388,
             "language": "Swift",
             "last_commit": "2026-07-26T13:24:42Z",
             "owner": "qvacua",
             "repo": "vimr",
-            "stars": 6983
+            "stars": 6985
           }
         },
         {
@@ -377,6 +385,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1152447423,
             "language": "Swift",
             "last_commit": "2026-08-15T16:25:29Z",
             "owner": "nickustinov",
@@ -391,18 +400,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1044870411,
             "language": "Swift",
-            "last_commit": "2026-08-18T08:32:40Z",
+            "last_commit": "2026-08-19T08:33:22Z",
             "owner": "h3pdesign",
             "repo": "Neon-Vision-Editor",
-            "stars": 384
+            "stars": 383
           }
         }
       ],
       "title": "Text Editors"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -411,11 +421,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 184909163,
             "language": "C",
             "last_commit": "2026-06-14T12:40:07Z",
             "owner": "asmvik",
             "repo": "yabai",
-            "stars": 29471
+            "stars": 29476
           }
         },
         {
@@ -425,39 +436,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 592882602,
             "language": "Swift",
             "last_commit": "2026-08-09T16:22:23Z",
             "owner": "mrkai77",
             "repo": "Loop",
-            "stars": 11382
+            "stars": 11386
           }
         }
       ],
       "title": "Window Management"
-    },
-    {
-      "description": "We welcome contributions! Please read our Contributing Guidelines before submitting.",
-      "items": [],
-      "title": "Contributing"
-    },
-    {
-      "description": "Beyond adding your app to this list, you can send it to us on X (@NativeMacApps) for a chance at an individual spotlight post with a screenshot and writeup. Follow the account to catch new spotlights.",
-      "items": [],
-      "title": "Get Your App Spotlighted on X"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Star History"
-    },
-    {
-      "description": "To the extent possible under law, the contributors have waived all copyright and related rights to this work.\n💡 Found a great native macOS app? Submit it here!\n⭐ If you find this list useful, please star the repo to help others discover it!\n🔗 Share: Twitter | Reddit\nThis list is brought to you by opensaas.directory — discover more open-source SaaS tools and products.",
-      "items": [],
-      "title": "License"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T09:58:07.083Z",
+    "last_updated": "2026-08-19T09:58:20.682Z",
     "original_repository": "open-saas-directory/awesome-native-macosx-apps",
     "original_repository_sha": "aee225bcc2e3a1a456ee15ce3f69e1450239fa70",
     "enhanced_repository": "enhansome/enhansome-native-macosx-apps",

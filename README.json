@@ -51,7 +51,7 @@
             "last_commit": "2026-08-13T00:05:03Z",
             "owner": "p0deje",
             "repo": "Maccy",
-            "stars": 21230
+            "stars": 21231
           }
         },
         {
@@ -138,7 +138,7 @@
             "last_commit": "2026-06-15T19:25:30Z",
             "owner": "dwarvesf",
             "repo": "hidden",
-            "stars": 14591
+            "stars": 14590
           }
         },
         {
@@ -264,7 +264,7 @@
             "last_commit": "2026-08-18T16:50:06Z",
             "owner": "exelban",
             "repo": "stats",
-            "stars": 41284
+            "stars": 41289
           }
         },
         {
@@ -279,7 +279,7 @@
             "last_commit": "2026-08-11T12:43:28Z",
             "owner": "MonitorControl",
             "repo": "MonitorControl",
-            "stars": 33993
+            "stars": 33994
           }
         },
         {
@@ -294,7 +294,7 @@
             "last_commit": "2026-08-11T12:43:28Z",
             "owner": "MonitorControl",
             "repo": "MonitorControl",
-            "stars": 33993
+            "stars": 33994
           }
         },
         {
@@ -402,10 +402,10 @@
             "archived": false,
             "id": 1044870411,
             "language": "Swift",
-            "last_commit": "2026-08-19T08:33:22Z",
+            "last_commit": "2026-08-19T12:39:54Z",
             "owner": "h3pdesign",
             "repo": "Neon-Vision-Editor",
-            "stars": 383
+            "stars": 384
           }
         }
       ],
@@ -426,7 +426,7 @@
             "last_commit": "2026-06-14T12:40:07Z",
             "owner": "asmvik",
             "repo": "yabai",
-            "stars": 29476
+            "stars": 29478
           }
         },
         {
@@ -441,7 +441,7 @@
             "last_commit": "2026-08-09T16:22:23Z",
             "owner": "mrkai77",
             "repo": "Loop",
-            "stars": 11386
+            "stars": 11387
           }
         }
       ],
@@ -449,8 +449,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T09:58:20.682Z",
+    "last_updated": "2026-08-19T12:41:37.083Z",
     "original_repository": "open-saas-directory/awesome-native-macosx-apps",
+    "original_repository_id": 940594927,
     "original_repository_sha": "aee225bcc2e3a1a456ee15ce3f69e1450239fa70",
     "enhanced_repository": "enhansome/enhansome-native-macosx-apps",
     "enhanced_repository_description": null,

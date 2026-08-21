@@ -15,7 +15,7 @@
             "last_commit": "2026-06-10T08:58:49Z",
             "owner": "kyleneideck",
             "repo": "BackgroundMusic",
-            "stars": 19238
+            "stars": 19239
           }
         },
         {
@@ -27,10 +27,10 @@
             "archived": false,
             "id": 969355437,
             "language": "Swift",
-            "last_commit": "2026-08-19T18:29:34Z",
+            "last_commit": "2026-08-20T21:59:07Z",
             "owner": "kushalpandya",
             "repo": "Petrichor",
-            "stars": 1608
+            "stars": 1607
           }
         }
       ],
@@ -51,7 +51,7 @@
             "last_commit": "2026-08-13T00:05:03Z",
             "owner": "p0deje",
             "repo": "Maccy",
-            "stars": 21254
+            "stars": 21279
           }
         },
         {
@@ -87,7 +87,7 @@
             "last_commit": "2026-08-18T21:24:35Z",
             "owner": "CodeEditApp",
             "repo": "CodeEdit",
-            "stars": 22985
+            "stars": 22986
           }
         },
         {
@@ -102,7 +102,7 @@
             "last_commit": "2026-05-18T20:59:20Z",
             "owner": "vashpan",
             "repo": "xcode-dev-cleaner",
-            "stars": 1603
+            "stars": 1602
           }
         },
         {
@@ -138,7 +138,7 @@
             "last_commit": "2026-06-15T19:25:30Z",
             "owner": "dwarvesf",
             "repo": "hidden",
-            "stars": 14598
+            "stars": 14605
           }
         },
         {
@@ -153,7 +153,7 @@
             "last_commit": "2023-11-30T13:45:27Z",
             "owner": "Mortennn",
             "repo": "Dozer",
-            "stars": 8713
+            "stars": 8712
           }
         },
         {
@@ -188,21 +188,6 @@
         },
         {
           "node_type": "item",
-          "title": "OpenQuack",
-          "description": "Transcribes a 5-minute clip in 2.8 s — local WhisperKit dictation, noise-robust. ~8 MB native Swift.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 1224861741,
-            "language": "Swift",
-            "last_commit": "2026-08-20T07:19:05Z",
-            "owner": "larryxiao",
-            "repo": "openquack",
-            "stars": 47
-          }
-        },
-        {
-          "node_type": "item",
           "title": "Holeberry",
           "description": "Monitor and control your Pi-hole instances from the menu bar.",
           "children": [],
@@ -213,7 +198,22 @@
             "last_commit": "2026-08-19T00:58:56Z",
             "owner": "pedrovieira",
             "repo": "Holeberry",
-            "stars": 46
+            "stars": 49
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenQuack",
+          "description": "Transcribes a 5-minute clip in 2.8 s — local WhisperKit dictation, noise-robust. ~8 MB native Swift.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1224861741,
+            "language": "Swift",
+            "last_commit": "2026-08-21T05:20:36Z",
+            "owner": "larryxiao",
+            "repo": "openquack",
+            "stars": 47
           }
         },
         {
@@ -264,7 +264,7 @@
             "last_commit": "2026-08-19T18:31:47Z",
             "owner": "exelban",
             "repo": "stats",
-            "stars": 41311
+            "stars": 41342
           }
         },
         {
@@ -279,7 +279,7 @@
             "last_commit": "2026-08-11T12:43:28Z",
             "owner": "MonitorControl",
             "repo": "MonitorControl",
-            "stars": 33999
+            "stars": 34003
           }
         },
         {
@@ -294,7 +294,7 @@
             "last_commit": "2026-08-11T12:43:28Z",
             "owner": "MonitorControl",
             "repo": "MonitorControl",
-            "stars": 33999
+            "stars": 34003
           }
         },
         {
@@ -309,7 +309,7 @@
             "last_commit": "2026-06-10T08:58:49Z",
             "owner": "kyleneideck",
             "repo": "BackgroundMusic",
-            "stars": 19238
+            "stars": 19239
           }
         },
         {
@@ -324,7 +324,7 @@
             "last_commit": "2026-08-03T12:39:37Z",
             "owner": "AppHouseKitchen",
             "repo": "AlDente-Battery_Care_and_Monitoring",
-            "stars": 9158
+            "stars": 9157
           }
         },
         {
@@ -360,7 +360,7 @@
             "last_commit": "2026-08-18T21:24:35Z",
             "owner": "CodeEditApp",
             "repo": "CodeEdit",
-            "stars": 22985
+            "stars": 22986
           }
         },
         {
@@ -390,7 +390,7 @@
             "last_commit": "2026-08-15T16:25:29Z",
             "owner": "nickustinov",
             "repo": "itsypad-macos",
-            "stars": 416
+            "stars": 417
           }
         },
         {
@@ -402,10 +402,10 @@
             "archived": false,
             "id": 1044870411,
             "language": "Swift",
-            "last_commit": "2026-08-20T08:34:20Z",
+            "last_commit": "2026-08-21T08:39:12Z",
             "owner": "h3pdesign",
             "repo": "Neon-Vision-Editor",
-            "stars": 386
+            "stars": 385
           }
         }
       ],
@@ -426,7 +426,7 @@
             "last_commit": "2026-06-14T12:40:07Z",
             "owner": "asmvik",
             "repo": "yabai",
-            "stars": 29483
+            "stars": 29487
           }
         },
         {
@@ -441,7 +441,7 @@
             "last_commit": "2026-08-09T16:22:23Z",
             "owner": "mrkai77",
             "repo": "Loop",
-            "stars": 11392
+            "stars": 11415
           }
         }
       ],
@@ -449,10 +449,10 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T09:59:38.867Z",
+    "last_updated": "2026-08-21T10:00:29.767Z",
     "original_repository": "open-saas-directory/awesome-native-macosx-apps",
     "original_repository_id": 940594927,
-    "original_repository_sha": "aee225bcc2e3a1a456ee15ce3f69e1450239fa70",
+    "original_repository_sha": "f6581f56a8f4ac17fabfcd5040a9e3f1deeba352",
     "enhanced_repository": "enhansome/enhansome-native-macosx-apps",
     "enhanced_repository_description": null,
     "title": "Awesome Best Native macOS Apps (2026) — Fast, Lightweight, No Electron (2026) with stars"

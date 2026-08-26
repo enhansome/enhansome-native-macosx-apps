@@ -15,7 +15,7 @@
             "last_commit": "2026-08-13T00:05:03Z",
             "owner": "p0deje",
             "repo": "Maccy",
-            "stars": 21326
+            "stars": 21343
           }
         }
       ],
@@ -36,7 +36,7 @@
             "last_commit": "2026-08-23T21:33:57Z",
             "owner": "exelban",
             "repo": "stats",
-            "stars": 41414
+            "stars": 41444
           }
         }
       ],
@@ -57,7 +57,7 @@
             "last_commit": "2026-06-10T08:58:49Z",
             "owner": "kyleneideck",
             "repo": "BackgroundMusic",
-            "stars": 19249
+            "stars": 19251
           }
         },
         {
@@ -72,7 +72,7 @@
             "last_commit": "2026-08-24T19:19:48Z",
             "owner": "kushalpandya",
             "repo": "Petrichor",
-            "stars": 1611
+            "stars": 1610
           }
         }
       ],
@@ -93,7 +93,7 @@
             "last_commit": "2026-08-13T00:05:03Z",
             "owner": "p0deje",
             "repo": "Maccy",
-            "stars": 21326
+            "stars": 21343
           }
         },
         {
@@ -108,7 +108,7 @@
             "last_commit": "2026-08-12T07:06:53Z",
             "owner": "momenbasel",
             "repo": "pesty",
-            "stars": 55
+            "stars": 56
           }
         }
       ],
@@ -144,7 +144,7 @@
             "last_commit": "2026-05-18T20:59:20Z",
             "owner": "vashpan",
             "repo": "xcode-dev-cleaner",
-            "stars": 1604
+            "stars": 1605
           }
         },
         {
@@ -159,7 +159,7 @@
             "last_commit": "2026-07-03T03:57:49Z",
             "owner": "Stmol",
             "repo": "ssh-keys-manager-macos-app",
-            "stars": 216
+            "stars": 219
           }
         }
       ],
@@ -180,7 +180,7 @@
             "last_commit": "2026-06-15T19:25:30Z",
             "owner": "dwarvesf",
             "repo": "hidden",
-            "stars": 14620
+            "stars": 14627
           }
         },
         {
@@ -195,7 +195,7 @@
             "last_commit": "2023-11-30T13:45:27Z",
             "owner": "Mortennn",
             "repo": "Dozer",
-            "stars": 8711
+            "stars": 8713
           }
         },
         {
@@ -240,7 +240,7 @@
             "last_commit": "2026-08-25T00:14:01Z",
             "owner": "pedrovieira",
             "repo": "Holeberry",
-            "stars": 73
+            "stars": 75
           }
         },
         {
@@ -306,7 +306,7 @@
             "last_commit": "2026-08-25T00:14:01Z",
             "owner": "pedrovieira",
             "repo": "Holeberry",
-            "stars": 73
+            "stars": 75
           }
         }
       ],
@@ -327,7 +327,7 @@
             "last_commit": "2026-08-17T21:25:26Z",
             "owner": "alkalim",
             "repo": "Knopo",
-            "stars": 29
+            "stars": 33
           }
         }
       ],
@@ -369,7 +369,7 @@
             "last_commit": "2026-08-23T21:33:57Z",
             "owner": "exelban",
             "repo": "stats",
-            "stars": 41414
+            "stars": 41444
           }
         },
         {
@@ -384,7 +384,7 @@
             "last_commit": "2026-08-11T12:43:28Z",
             "owner": "MonitorControl",
             "repo": "MonitorControl",
-            "stars": 34028
+            "stars": 34036
           }
         },
         {
@@ -399,7 +399,7 @@
             "last_commit": "2026-08-11T12:43:28Z",
             "owner": "MonitorControl",
             "repo": "MonitorControl",
-            "stars": 34028
+            "stars": 34036
           }
         },
         {
@@ -414,7 +414,7 @@
             "last_commit": "2026-06-10T08:58:49Z",
             "owner": "kyleneideck",
             "repo": "BackgroundMusic",
-            "stars": 19249
+            "stars": 19251
           }
         },
         {
@@ -444,7 +444,7 @@
             "last_commit": "2026-08-24T13:01:01Z",
             "owner": "bysiber",
             "repo": "cleardisk",
-            "stars": 578
+            "stars": 579
           }
         }
       ],
@@ -507,7 +507,7 @@
             "archived": false,
             "id": 1044870411,
             "language": "Swift",
-            "last_commit": "2026-08-25T08:37:58Z",
+            "last_commit": "2026-08-26T08:39:05Z",
             "owner": "h3pdesign",
             "repo": "Neon-Vision-Editor",
             "stars": 386
@@ -531,7 +531,7 @@
             "last_commit": "2026-06-14T12:40:07Z",
             "owner": "asmvik",
             "repo": "yabai",
-            "stars": 29507
+            "stars": 29509
           }
         },
         {
@@ -546,7 +546,7 @@
             "last_commit": "2026-08-09T16:22:23Z",
             "owner": "mrkai77",
             "repo": "Loop",
-            "stars": 11434
+            "stars": 11439
           }
         }
       ],
@@ -554,10 +554,10 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T10:00:18.578Z",
+    "last_updated": "2026-08-26T10:05:28.696Z",
     "original_repository": "open-saas-directory/awesome-native-macosx-apps",
     "original_repository_id": 940594927,
-    "original_repository_sha": "c0523afd31ec04451707c8ac124ce095d5f41185",
+    "original_repository_sha": "265002d229d63a69abbe6deae087c3ed78d9e7cc",
     "enhanced_repository": "enhansome/enhansome-native-macosx-apps",
     "enhanced_repository_description": null,
     "title": "Awesome Best MacOS Apps (2026) — Fast, Lightweight, No Electron (2026) with stars"

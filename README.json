@@ -15,7 +15,7 @@
             "last_commit": "2026-08-13T00:05:03Z",
             "owner": "p0deje",
             "repo": "Maccy",
-            "stars": 21355
+            "stars": 21359
           }
         }
       ],
@@ -33,10 +33,10 @@
             "archived": false,
             "id": 189285554,
             "language": "Swift",
-            "last_commit": "2026-08-26T16:12:02Z",
+            "last_commit": "2026-08-27T15:34:26Z",
             "owner": "exelban",
             "repo": "stats",
-            "stars": 41462
+            "stars": 41467
           }
         }
       ],
@@ -69,10 +69,10 @@
             "archived": false,
             "id": 969355437,
             "language": "Swift",
-            "last_commit": "2026-08-27T02:35:49Z",
+            "last_commit": "2026-08-27T17:07:47Z",
             "owner": "kushalpandya",
             "repo": "Petrichor",
-            "stars": 1612
+            "stars": 1614
           }
         }
       ],
@@ -93,7 +93,7 @@
             "last_commit": "2026-08-13T00:05:03Z",
             "owner": "p0deje",
             "repo": "Maccy",
-            "stars": 21355
+            "stars": 21359
           }
         },
         {
@@ -180,7 +180,7 @@
             "last_commit": "2026-06-15T19:25:30Z",
             "owner": "dwarvesf",
             "repo": "hidden",
-            "stars": 14634
+            "stars": 14636
           }
         },
         {
@@ -237,7 +237,7 @@
             "archived": false,
             "id": 1265408951,
             "language": "Swift",
-            "last_commit": "2026-08-25T00:14:01Z",
+            "last_commit": "2026-08-27T19:07:28Z",
             "owner": "pedrovieira",
             "repo": "Holeberry",
             "stars": 77
@@ -303,7 +303,7 @@
             "archived": false,
             "id": 1265408951,
             "language": "Swift",
-            "last_commit": "2026-08-25T00:14:01Z",
+            "last_commit": "2026-08-27T19:07:28Z",
             "owner": "pedrovieira",
             "repo": "Holeberry",
             "stars": 77
@@ -366,10 +366,10 @@
             "archived": false,
             "id": 189285554,
             "language": "Swift",
-            "last_commit": "2026-08-26T16:12:02Z",
+            "last_commit": "2026-08-27T15:34:26Z",
             "owner": "exelban",
             "repo": "stats",
-            "stars": 41462
+            "stars": 41467
           }
         },
         {
@@ -384,7 +384,7 @@
             "last_commit": "2026-08-11T12:43:28Z",
             "owner": "MonitorControl",
             "repo": "MonitorControl",
-            "stars": 34044
+            "stars": 34050
           }
         },
         {
@@ -399,7 +399,7 @@
             "last_commit": "2026-08-11T12:43:28Z",
             "owner": "MonitorControl",
             "repo": "MonitorControl",
-            "stars": 34044
+            "stars": 34050
           }
         },
         {
@@ -441,7 +441,7 @@
             "archived": false,
             "id": 1169516628,
             "language": "Swift",
-            "last_commit": "2026-08-26T17:48:15Z",
+            "last_commit": "2026-08-27T18:37:20Z",
             "owner": "bysiber",
             "repo": "cleardisk",
             "stars": 581
@@ -477,7 +477,7 @@
             "archived": false,
             "id": 17300388,
             "language": "Swift",
-            "last_commit": "2026-08-27T04:36:56Z",
+            "last_commit": "2026-08-27T17:48:46Z",
             "owner": "qvacua",
             "repo": "vimr",
             "stars": 6990
@@ -507,7 +507,7 @@
             "archived": false,
             "id": 1044870411,
             "language": "Swift",
-            "last_commit": "2026-08-27T11:45:39Z",
+            "last_commit": "2026-08-27T18:48:56Z",
             "owner": "h3pdesign",
             "repo": "Neon-Vision-Editor",
             "stars": 387
@@ -531,7 +531,7 @@
             "last_commit": "2026-06-14T12:40:07Z",
             "owner": "asmvik",
             "repo": "yabai",
-            "stars": 29517
+            "stars": 29520
           }
         },
         {
@@ -554,7 +554,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:52:02.403Z",
+    "last_updated": "2026-08-27T19:55:11.433Z",
     "original_repository_info": {
       "archived": false,
       "id": 940594927,
@@ -562,7 +562,7 @@
       "last_commit": "2026-08-25T20:27:38Z",
       "owner": "open-saas-directory",
       "repo": "awesome-native-macosx-apps",
-      "stars": 1486
+      "stars": 1488
     },
     "original_repository_sha": "265002d229d63a69abbe6deae087c3ed78d9e7cc",
     "enhanced_repository": "enhansome/enhansome-native-macosx-apps",

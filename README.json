@@ -15,8 +15,9 @@
             "last_commit": "2026-08-13T00:05:03Z",
             "owner": "p0deje",
             "repo": "Maccy",
-            "stars": 21359
-          }
+            "stars": 21374
+          },
+          "first_seen": "2026-08-28T20:57:44.810Z"
         }
       ],
       "title": "🚀 New to Mac? Start Here"
@@ -33,11 +34,12 @@
             "archived": false,
             "id": 189285554,
             "language": "Swift",
-            "last_commit": "2026-08-27T15:34:26Z",
+            "last_commit": "2026-08-28T16:21:39Z",
             "owner": "exelban",
             "repo": "stats",
-            "stars": 41467
-          }
+            "stars": 41486
+          },
+          "first_seen": "2026-08-28T20:57:44.810Z"
         }
       ],
       "title": "Analytics & Monitoring"
@@ -57,8 +59,9 @@
             "last_commit": "2026-06-10T08:58:49Z",
             "owner": "kyleneideck",
             "repo": "BackgroundMusic",
-            "stars": 19253
-          }
+            "stars": 19254
+          },
+          "first_seen": "2026-08-28T20:57:44.810Z"
         },
         {
           "node_type": "item",
@@ -69,11 +72,12 @@
             "archived": false,
             "id": 969355437,
             "language": "Swift",
-            "last_commit": "2026-08-27T17:07:47Z",
+            "last_commit": "2026-08-28T02:56:14Z",
             "owner": "kushalpandya",
             "repo": "Petrichor",
-            "stars": 1614
-          }
+            "stars": 1616
+          },
+          "first_seen": "2026-08-28T20:57:44.810Z"
         }
       ],
       "title": "Audio & Music"
@@ -93,8 +97,9 @@
             "last_commit": "2026-08-13T00:05:03Z",
             "owner": "p0deje",
             "repo": "Maccy",
-            "stars": 21359
-          }
+            "stars": 21374
+          },
+          "first_seen": "2026-08-28T20:57:44.810Z"
         },
         {
           "node_type": "item",
@@ -109,7 +114,8 @@
             "owner": "momenbasel",
             "repo": "pesty",
             "stars": 57
-          }
+          },
+          "first_seen": "2026-08-28T20:57:44.810Z"
         }
       ],
       "title": "Clipboard Managers"
@@ -130,7 +136,8 @@
             "owner": "CodeEditApp",
             "repo": "CodeEdit",
             "stars": 22998
-          }
+          },
+          "first_seen": "2026-08-28T20:57:44.810Z"
         },
         {
           "node_type": "item",
@@ -145,7 +152,8 @@
             "owner": "vashpan",
             "repo": "xcode-dev-cleaner",
             "stars": 1606
-          }
+          },
+          "first_seen": "2026-08-28T20:57:44.810Z"
         },
         {
           "node_type": "item",
@@ -159,8 +167,9 @@
             "last_commit": "2026-07-03T03:57:49Z",
             "owner": "Stmol",
             "repo": "ssh-keys-manager-macos-app",
-            "stars": 222
-          }
+            "stars": 223
+          },
+          "first_seen": "2026-08-28T20:57:44.810Z"
         }
       ],
       "title": "Developer Tools"
@@ -180,8 +189,9 @@
             "last_commit": "2026-06-15T19:25:30Z",
             "owner": "dwarvesf",
             "repo": "hidden",
-            "stars": 14636
-          }
+            "stars": 14639
+          },
+          "first_seen": "2026-08-28T20:57:44.810Z"
         },
         {
           "node_type": "item",
@@ -196,7 +206,8 @@
             "owner": "Mortennn",
             "repo": "Dozer",
             "stars": 8716
-          }
+          },
+          "first_seen": "2026-08-28T20:57:44.810Z"
         },
         {
           "node_type": "item",
@@ -210,8 +221,9 @@
             "last_commit": "2026-08-10T09:38:51Z",
             "owner": "nickustinov",
             "repo": "itsyhome-macos",
-            "stars": 982
-          }
+            "stars": 981
+          },
+          "first_seen": "2026-08-28T20:57:44.810Z"
         },
         {
           "node_type": "item",
@@ -226,7 +238,8 @@
             "owner": "inderdhir",
             "repo": "DatWeatherDoe",
             "stars": 537
-          }
+          },
+          "first_seen": "2026-08-28T20:57:44.810Z"
         },
         {
           "node_type": "item",
@@ -237,11 +250,12 @@
             "archived": false,
             "id": 1265408951,
             "language": "Swift",
-            "last_commit": "2026-08-27T19:07:28Z",
+            "last_commit": "2026-08-28T16:28:05Z",
             "owner": "pedrovieira",
             "repo": "Holeberry",
             "stars": 77
-          }
+          },
+          "first_seen": "2026-08-28T20:57:44.810Z"
         },
         {
           "node_type": "item",
@@ -256,7 +270,8 @@
             "owner": "larryxiao",
             "repo": "openquack",
             "stars": 50
-          }
+          },
+          "first_seen": "2026-08-28T20:57:44.810Z"
         },
         {
           "node_type": "item",
@@ -271,7 +286,8 @@
             "owner": "patwalls",
             "repo": "headroom",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-28T20:57:44.810Z"
         },
         {
           "node_type": "item",
@@ -286,7 +302,8 @@
             "owner": "stonerl",
             "repo": "Thaw",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T20:57:44.810Z"
         }
       ],
       "title": "Menu Bar Apps"
@@ -303,11 +320,12 @@
             "archived": false,
             "id": 1265408951,
             "language": "Swift",
-            "last_commit": "2026-08-27T19:07:28Z",
+            "last_commit": "2026-08-28T16:28:05Z",
             "owner": "pedrovieira",
             "repo": "Holeberry",
             "stars": 77
-          }
+          },
+          "first_seen": "2026-08-28T20:57:44.810Z"
         }
       ],
       "title": "Network Tools"
@@ -328,7 +346,8 @@
             "owner": "alkalim",
             "repo": "Knopo",
             "stars": 34
-          }
+          },
+          "first_seen": "2026-08-28T20:57:44.810Z"
         }
       ],
       "title": "Note-Taking & Writing"
@@ -348,8 +367,9 @@
             "last_commit": "2026-08-24T08:59:34Z",
             "owner": "sorkila",
             "repo": "lockpaw",
-            "stars": 144
-          }
+            "stars": 145
+          },
+          "first_seen": "2026-08-28T20:57:44.810Z"
         }
       ],
       "title": "Security & Privacy"
@@ -366,11 +386,12 @@
             "archived": false,
             "id": 189285554,
             "language": "Swift",
-            "last_commit": "2026-08-27T15:34:26Z",
+            "last_commit": "2026-08-28T16:21:39Z",
             "owner": "exelban",
             "repo": "stats",
-            "stars": 41467
-          }
+            "stars": 41486
+          },
+          "first_seen": "2026-08-28T20:57:44.810Z"
         },
         {
           "node_type": "item",
@@ -384,8 +405,9 @@
             "last_commit": "2026-08-11T12:43:28Z",
             "owner": "MonitorControl",
             "repo": "MonitorControl",
-            "stars": 34050
-          }
+            "stars": 34056
+          },
+          "first_seen": "2026-08-28T20:57:44.810Z"
         },
         {
           "node_type": "item",
@@ -399,8 +421,9 @@
             "last_commit": "2026-08-11T12:43:28Z",
             "owner": "MonitorControl",
             "repo": "MonitorControl",
-            "stars": 34050
-          }
+            "stars": 34056
+          },
+          "first_seen": "2026-08-28T20:57:44.810Z"
         },
         {
           "node_type": "item",
@@ -414,8 +437,9 @@
             "last_commit": "2026-06-10T08:58:49Z",
             "owner": "kyleneideck",
             "repo": "BackgroundMusic",
-            "stars": 19253
-          }
+            "stars": 19254
+          },
+          "first_seen": "2026-08-28T20:57:44.810Z"
         },
         {
           "node_type": "item",
@@ -429,8 +453,9 @@
             "last_commit": "2026-08-03T12:39:37Z",
             "owner": "AppHouseKitchen",
             "repo": "AlDente-Battery_Care_and_Monitoring",
-            "stars": 9160
-          }
+            "stars": 9164
+          },
+          "first_seen": "2026-08-28T20:57:44.810Z"
         },
         {
           "node_type": "item",
@@ -441,11 +466,12 @@
             "archived": false,
             "id": 1169516628,
             "language": "Swift",
-            "last_commit": "2026-08-27T18:37:20Z",
+            "last_commit": "2026-08-28T14:59:43Z",
             "owner": "bysiber",
             "repo": "cleardisk",
-            "stars": 581
-          }
+            "stars": 582
+          },
+          "first_seen": "2026-08-28T20:57:44.810Z"
         }
       ],
       "title": "System Utilities"
@@ -466,7 +492,8 @@
             "owner": "CodeEditApp",
             "repo": "CodeEdit",
             "stars": 22998
-          }
+          },
+          "first_seen": "2026-08-28T20:57:44.810Z"
         },
         {
           "node_type": "item",
@@ -477,11 +504,12 @@
             "archived": false,
             "id": 17300388,
             "language": "Swift",
-            "last_commit": "2026-08-27T17:48:46Z",
+            "last_commit": "2026-08-28T15:36:51Z",
             "owner": "qvacua",
             "repo": "vimr",
             "stars": 6990
-          }
+          },
+          "first_seen": "2026-08-28T20:57:44.810Z"
         },
         {
           "node_type": "item",
@@ -496,7 +524,8 @@
             "owner": "nickustinov",
             "repo": "itsypad-macos",
             "stars": 419
-          }
+          },
+          "first_seen": "2026-08-28T20:57:44.810Z"
         },
         {
           "node_type": "item",
@@ -507,11 +536,12 @@
             "archived": false,
             "id": 1044870411,
             "language": "Swift",
-            "last_commit": "2026-08-27T18:48:56Z",
+            "last_commit": "2026-08-28T19:52:45Z",
             "owner": "h3pdesign",
             "repo": "Neon-Vision-Editor",
-            "stars": 387
-          }
+            "stars": 388
+          },
+          "first_seen": "2026-08-28T20:57:44.810Z"
         }
       ],
       "title": "Text Editors"
@@ -531,8 +561,9 @@
             "last_commit": "2026-06-14T12:40:07Z",
             "owner": "asmvik",
             "repo": "yabai",
-            "stars": 29520
-          }
+            "stars": 29523
+          },
+          "first_seen": "2026-08-28T20:57:44.810Z"
         },
         {
           "node_type": "item",
@@ -546,25 +577,26 @@
             "last_commit": "2026-08-09T16:22:23Z",
             "owner": "mrkai77",
             "repo": "Loop",
-            "stars": 11449
-          }
+            "stars": 11455
+          },
+          "first_seen": "2026-08-28T20:57:44.810Z"
         }
       ],
       "title": "Window Management"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T19:55:11.433Z",
+    "last_updated": "2026-08-28T20:57:44.810Z",
     "original_repository_info": {
       "archived": false,
       "id": 940594927,
       "language": "Shell",
-      "last_commit": "2026-08-25T20:27:38Z",
+      "last_commit": "2026-08-28T09:07:57Z",
       "owner": "open-saas-directory",
       "repo": "awesome-native-macosx-apps",
-      "stars": 1488
+      "stars": 1490
     },
-    "original_repository_sha": "265002d229d63a69abbe6deae087c3ed78d9e7cc",
+    "original_repository_sha": "6406b8eb9e3534084b9d7a204130a8e90ff35ec5",
     "enhanced_repository": "enhansome/enhansome-native-macosx-apps",
     "enhanced_repository_description": null,
     "title": "Awesome Best MacOS Apps (2026) — Fast, Lightweight, No Electron (2026) with stars"

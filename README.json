@@ -10,12 +10,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Lightweight clipboard manager for macOS",
+            "homepage": "https://maccy.app",
             "id": 119637215,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2026-08-13T00:05:03Z",
+            "open_issues": 161,
             "owner": "p0deje",
             "repo": "Maccy",
-            "stars": 21374
+            "stars": 21373,
+            "topics": [
+              "clipboard-manager",
+              "maccy",
+              "macos"
+            ]
           },
           "first_seen": "2026-08-28T20:57:44.810Z"
         }
@@ -32,12 +41,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "macOS system monitor in your menu bar",
+            "homepage": "https://mac-stats.com",
             "id": 189285554,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2026-08-28T16:21:39Z",
+            "open_issues": 27,
             "owner": "exelban",
             "repo": "stats",
-            "stars": 41486
+            "stars": 41489,
+            "topics": [
+              "battery",
+              "bluetooth",
+              "clock",
+              "cpu",
+              "disk",
+              "fans",
+              "gpu",
+              "macos",
+              "menubar",
+              "monitor",
+              "network",
+              "sensors",
+              "stats",
+              "temperature"
+            ]
           },
           "first_seen": "2026-08-28T20:57:44.810Z"
         }
@@ -54,12 +83,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Background Music, a macOS audio utility: automatically pause your music, set individual apps' volumes and record system audio.",
+            "homepage": null,
             "id": 52422583,
             "language": "C++",
+            "license": "GPL-2.0",
             "last_commit": "2026-06-10T08:58:49Z",
+            "open_issues": 540,
             "owner": "kyleneideck",
             "repo": "BackgroundMusic",
-            "stars": 19254
+            "stars": 19253,
+            "topics": [
+              "audio",
+              "audio-utility",
+              "cpp",
+              "macos",
+              "objective-c"
+            ]
           },
           "first_seen": "2026-08-28T20:57:44.810Z"
         },
@@ -70,12 +110,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An offline macOS music player",
+            "homepage": "https://petrichor.page",
             "id": 969355437,
             "language": "Swift",
-            "last_commit": "2026-08-28T02:56:14Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T02:02:30Z",
+            "open_issues": 19,
             "owner": "kushalpandya",
             "repo": "Petrichor",
-            "stars": 1616
+            "stars": 1616,
+            "topics": [
+              "audio-player",
+              "desktop-app",
+              "macos",
+              "macos-app",
+              "macos-application",
+              "macos-swift",
+              "mp3-player",
+              "music-player",
+              "ogg-vorbis"
+            ]
           },
           "first_seen": "2026-08-28T20:57:44.810Z"
         }
@@ -92,12 +147,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Lightweight clipboard manager for macOS",
+            "homepage": "https://maccy.app",
             "id": 119637215,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2026-08-13T00:05:03Z",
+            "open_issues": 161,
             "owner": "p0deje",
             "repo": "Maccy",
-            "stars": 21374
+            "stars": 21373,
+            "topics": [
+              "clipboard-manager",
+              "maccy",
+              "macos"
+            ]
           },
           "first_seen": "2026-08-28T20:57:44.810Z"
         },
@@ -108,12 +172,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Free, open-source clipboard manager for macOS  a native Paste app alternative with color-coded history, pinboards, search & keyboard paste. Signed, notarized, Homebrew.",
+            "homepage": "https://www.moamenbasel.com/pesty/",
             "id": 1280789793,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2026-08-12T07:06:53Z",
+            "open_issues": 21,
             "owner": "momenbasel",
             "repo": "pesty",
-            "stars": 57
+            "stars": 57,
+            "topics": [
+              "appkit",
+              "clipboard",
+              "clipboard-history",
+              "clipboard-manager",
+              "copy-paste",
+              "homebrew",
+              "mac",
+              "maccy-alternative",
+              "macos",
+              "macos-app",
+              "menubar",
+              "notarized",
+              "open-source",
+              "paste",
+              "paste-alternative",
+              "pasteboard",
+              "productivity",
+              "swift",
+              "swiftui",
+              "utility"
+            ]
           },
           "first_seen": "2026-08-28T20:57:44.810Z"
         }
@@ -130,12 +220,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "📝 CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.",
+            "homepage": "https://codeedit.app",
             "id": 468515960,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2026-08-18T21:24:35Z",
+            "open_issues": 211,
             "owner": "CodeEditApp",
             "repo": "CodeEdit",
-            "stars": 22998
+            "stars": 23000,
+            "topics": [
+              "app",
+              "appkit",
+              "apple",
+              "code",
+              "code-edit",
+              "code-editor",
+              "editor",
+              "ide",
+              "ios",
+              "mac",
+              "macos",
+              "open-source",
+              "swift",
+              "swiftui",
+              "xcode"
+            ]
           },
           "first_seen": "2026-08-28T20:57:44.810Z"
         },
@@ -146,12 +257,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "If you want to reclaim tens of gigabytes of your storage used for various Xcode caches - this tool is for you!",
+            "homepage": null,
             "id": 132659513,
             "language": "Swift",
+            "license": "GPL-3.0",
             "last_commit": "2026-05-18T20:59:20Z",
+            "open_issues": 17,
             "owner": "vashpan",
             "repo": "xcode-dev-cleaner",
-            "stars": 1606
+            "stars": 1606,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:57:44.810Z"
         },
@@ -162,12 +278,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A native macOS app for managing SSH keys, editing SSH config entries, and safely organizing your local SSH workspace.",
+            "homepage": null,
             "id": 1221607599,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2026-07-03T03:57:49Z",
+            "open_issues": 0,
             "owner": "Stmol",
             "repo": "ssh-keys-manager-macos-app",
-            "stars": 223
+            "stars": 223,
+            "topics": [
+              "macos-app",
+              "ssh",
+              "ssh-key-manager",
+              "ssh-keys",
+              "tools"
+            ]
           },
           "first_seen": "2026-08-28T20:57:44.810Z"
         }
@@ -184,12 +311,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An ultra-light MacOS utility that helps hide menu bar icons",
+            "homepage": "https://d.foundation/opensource",
             "id": 170244456,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2026-06-15T19:25:30Z",
+            "open_issues": 99,
             "owner": "dwarvesf",
             "repo": "hidden",
-            "stars": 14639
+            "stars": 14639,
+            "topics": [
+              "macos",
+              "swift",
+              "utilities"
+            ]
           },
           "first_seen": "2026-08-28T20:57:44.810Z"
         },
@@ -200,12 +336,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Hide menu bar icons on macOS",
+            "homepage": null,
             "id": 150961965,
             "language": "Swift",
+            "license": "MPL-2.0",
             "last_commit": "2023-11-30T13:45:27Z",
+            "open_issues": 101,
             "owner": "Mortennn",
             "repo": "Dozer",
-            "stars": 8716
+            "stars": 8717,
+            "topics": [
+              "macos",
+              "minimalistic",
+              "statusbar",
+              "utility"
+            ]
           },
           "first_seen": "2026-08-28T20:57:44.810Z"
         },
@@ -216,12 +362,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A native macOS menu bar app for controlling your smart home devices.",
+            "homepage": "https://itsyhome.app",
             "id": 1138336035,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2026-08-10T09:38:51Z",
+            "open_issues": 26,
             "owner": "nickustinov",
             "repo": "itsyhome-macos",
-            "stars": 981
+            "stars": 981,
+            "topics": [
+              "home-assistant",
+              "homekit",
+              "homekit-controller",
+              "macos",
+              "menubar-app",
+              "smart-home",
+              "swift"
+            ]
           },
           "first_seen": "2026-08-28T20:57:44.810Z"
         },
@@ -232,12 +391,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple menu bar weather app for macOS",
+            "homepage": null,
             "id": 49980979,
             "language": "Swift",
+            "license": "Apache-2.0",
             "last_commit": "2026-03-06T21:12:22Z",
+            "open_issues": 3,
             "owner": "inderdhir",
             "repo": "DatWeatherDoe",
-            "stars": 537
+            "stars": 537,
+            "topics": [
+              "dark-theme",
+              "french-translation",
+              "macos",
+              "menubar",
+              "menubar-app",
+              "openweathermap",
+              "swift",
+              "swiftui",
+              "weather"
+            ]
           },
           "first_seen": "2026-08-28T20:57:44.810Z"
         },
@@ -248,12 +422,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A native and modern macOS menu bar app to monitor and control your Pi-hole instances",
+            "homepage": "https://holeberryapp.com/",
             "id": 1265408951,
             "language": "Swift",
-            "last_commit": "2026-08-28T16:28:05Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T00:09:09Z",
+            "open_issues": 2,
             "owner": "pedrovieira",
             "repo": "Holeberry",
-            "stars": 77
+            "stars": 77,
+            "topics": [
+              "ad-blocker",
+              "apple",
+              "dns",
+              "homelab",
+              "mac",
+              "macos",
+              "macos-menubar",
+              "menubar-app",
+              "pi-hole",
+              "pihole",
+              "pihole-tools",
+              "swift"
+            ]
           },
           "first_seen": "2026-08-28T20:57:44.810Z"
         },
@@ -264,12 +456,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Voice dictation menu-bar app for macOS. Press a hotkey, speak, transcript appears at the cursor. Whisper runs locally via WhisperKit on Apple Silicon — no audio, text, or telemetry leaves your Mac. MIT, Swift.",
+            "homepage": "https://larryxiao.github.io/openquack",
             "id": 1224861741,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2026-08-24T03:12:12Z",
+            "open_issues": 12,
             "owner": "larryxiao",
             "repo": "openquack",
-            "stars": 50
+            "stars": 50,
+            "topics": [
+              "apple-silicon",
+              "claude-code",
+              "cursor",
+              "dictation",
+              "local-first",
+              "macos",
+              "menu-bar",
+              "privacy",
+              "speech-to-text",
+              "superwhisper-alternative",
+              "swift",
+              "swiftui",
+              "transcription",
+              "voice-coding",
+              "voice-typing",
+              "whisper",
+              "whisperkit",
+              "wispr-flow-alternative"
+            ]
           },
           "first_seen": "2026-08-28T20:57:44.810Z"
         },
@@ -280,12 +496,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Your Claude Code usage, live in the menu bar — session + weekly % , color-coded. Zero config.",
+            "homepage": "https://headroom.walls.sh",
             "id": 1264424867,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-06-26T21:17:12Z",
+            "open_issues": 3,
             "owner": "patwalls",
             "repo": "headroom",
-            "stars": 11
+            "stars": 11,
+            "topics": [
+              "anthropic",
+              "claude",
+              "claude-code",
+              "macos",
+              "menu-bar-app",
+              "menubar",
+              "swift",
+              "usage-monitor"
+            ]
           },
           "first_seen": "2026-08-28T20:57:44.810Z"
         },
@@ -296,12 +526,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1314956643,
             "language": null,
+            "license": null,
             "last_commit": "2026-08-25T05:20:29Z",
+            "open_issues": 6,
             "owner": "stonerl",
             "repo": "Thaw",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:57:44.810Z"
         }
@@ -318,12 +553,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A native and modern macOS menu bar app to monitor and control your Pi-hole instances",
+            "homepage": "https://holeberryapp.com/",
             "id": 1265408951,
             "language": "Swift",
-            "last_commit": "2026-08-28T16:28:05Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T00:09:09Z",
+            "open_issues": 2,
             "owner": "pedrovieira",
             "repo": "Holeberry",
-            "stars": 77
+            "stars": 77,
+            "topics": [
+              "ad-blocker",
+              "apple",
+              "dns",
+              "homelab",
+              "mac",
+              "macos",
+              "macos-menubar",
+              "menubar-app",
+              "pi-hole",
+              "pihole",
+              "pihole-tools",
+              "swift"
+            ]
           },
           "first_seen": "2026-08-28T20:57:44.810Z"
         }
@@ -340,12 +593,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A native macOS outliner for structured thinking, local-first notes, and Markdown-based knowledge management.",
+            "homepage": null,
             "id": 1280450425,
             "language": "Swift",
+            "license": "AGPL-3.0",
             "last_commit": "2026-08-17T21:25:26Z",
+            "open_issues": 1,
             "owner": "alkalim",
             "repo": "Knopo",
-            "stars": 34
+            "stars": 34,
+            "topics": [
+              "knowledge-management",
+              "local-first",
+              "macos",
+              "markdown",
+              "markdown-editor",
+              "note-taking",
+              "offline-first",
+              "outliner",
+              "pkm",
+              "productivity",
+              "second-brain"
+            ]
           },
           "first_seen": "2026-08-28T20:57:44.810Z"
         }
@@ -362,12 +632,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cover your Mac screen with a hotkey while AI agents keep running. Dog/cat mascot, native Settings, Touch ID unlock.",
+            "homepage": "https://getlockpaw.com",
             "id": 1186242047,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2026-08-24T08:59:34Z",
+            "open_issues": 5,
             "owner": "sorkila",
             "repo": "lockpaw",
-            "stars": 145
+            "stars": 146,
+            "topics": [
+              "ai-agents",
+              "claude-code",
+              "developer-tools",
+              "hotkey",
+              "macos",
+              "macos-app",
+              "menubar",
+              "open-source",
+              "privacy",
+              "screen-lock",
+              "screen-privacy",
+              "security",
+              "swift",
+              "swiftui",
+              "touch-id",
+              "utilities"
+            ]
           },
           "first_seen": "2026-08-28T20:57:44.810Z"
         }
@@ -384,12 +676,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "macOS system monitor in your menu bar",
+            "homepage": "https://mac-stats.com",
             "id": 189285554,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2026-08-28T16:21:39Z",
+            "open_issues": 27,
             "owner": "exelban",
             "repo": "stats",
-            "stars": 41486
+            "stars": 41489,
+            "topics": [
+              "battery",
+              "bluetooth",
+              "clock",
+              "cpu",
+              "disk",
+              "fans",
+              "gpu",
+              "macos",
+              "menubar",
+              "monitor",
+              "network",
+              "sensors",
+              "stats",
+              "temperature"
+            ]
           },
           "first_seen": "2026-08-28T20:57:44.810Z"
         },
@@ -400,12 +712,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🖥 Control your display's brightness & volume on your Mac as if it was a native Apple Display. Use Apple Keyboard keys or custom shortcuts. Shows the native macOS OSDs.",
+            "homepage": "https://monitorcontrol.app",
             "id": 103784142,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2026-08-11T12:43:28Z",
+            "open_issues": 25,
             "owner": "MonitorControl",
             "repo": "MonitorControl",
-            "stars": 34056
+            "stars": 34057,
+            "topics": [
+              "apple",
+              "brightness",
+              "control",
+              "ddc",
+              "display",
+              "external-monitor",
+              "gamma",
+              "keyboard",
+              "m1",
+              "macos",
+              "macos-app",
+              "menubar",
+              "osx",
+              "shade",
+              "silicon",
+              "swift",
+              "volume",
+              "xcode"
+            ]
           },
           "first_seen": "2026-08-28T20:57:44.810Z"
         },
@@ -416,12 +752,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🖥 Control your display's brightness & volume on your Mac as if it was a native Apple Display. Use Apple Keyboard keys or custom shortcuts. Shows the native macOS OSDs.",
+            "homepage": "https://monitorcontrol.app",
             "id": 103784142,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2026-08-11T12:43:28Z",
+            "open_issues": 25,
             "owner": "MonitorControl",
             "repo": "MonitorControl",
-            "stars": 34056
+            "stars": 34057,
+            "topics": [
+              "apple",
+              "brightness",
+              "control",
+              "ddc",
+              "display",
+              "external-monitor",
+              "gamma",
+              "keyboard",
+              "m1",
+              "macos",
+              "macos-app",
+              "menubar",
+              "osx",
+              "shade",
+              "silicon",
+              "swift",
+              "volume",
+              "xcode"
+            ]
           },
           "first_seen": "2026-08-28T20:57:44.810Z"
         },
@@ -432,12 +792,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Background Music, a macOS audio utility: automatically pause your music, set individual apps' volumes and record system audio.",
+            "homepage": null,
             "id": 52422583,
             "language": "C++",
+            "license": "GPL-2.0",
             "last_commit": "2026-06-10T08:58:49Z",
+            "open_issues": 540,
             "owner": "kyleneideck",
             "repo": "BackgroundMusic",
-            "stars": 19254
+            "stars": 19253,
+            "topics": [
+              "audio",
+              "audio-utility",
+              "cpp",
+              "macos",
+              "objective-c"
+            ]
           },
           "first_seen": "2026-08-28T20:57:44.810Z"
         },
@@ -448,12 +819,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Menubar Tool to set Charge Limits and Prolong Battery Lifespan",
+            "homepage": "https://apphousekitchen.com/",
             "id": 240818838,
             "language": "Swift",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-03T12:39:37Z",
+            "open_issues": 140,
             "owner": "AppHouseKitchen",
             "repo": "AlDente-Battery_Care_and_Monitoring",
-            "stars": 9164
+            "stars": 9164,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:57:44.810Z"
         },
@@ -464,12 +840,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Free macOS menu bar app to visualize and clean developer caches (Xcode, node_modules, CocoaPods, SPM, Docker, pip, Cargo). Reclaim disk space instantly.",
+            "homepage": "https://bysiber.github.io/cleardisk",
             "id": 1169516628,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2026-08-28T14:59:43Z",
+            "open_issues": 14,
             "owner": "bysiber",
             "repo": "cleardisk",
-            "stars": 582
+            "stars": 582,
+            "topics": [
+              "cache-cleaner",
+              "developer-tools",
+              "disk-analyzer",
+              "disk-cleaner",
+              "disk-space",
+              "docker",
+              "free-disk-space",
+              "homebrew",
+              "mac-cleanup",
+              "macos",
+              "macos-app",
+              "menu-bar-app",
+              "node-modules",
+              "npm",
+              "open-source",
+              "storage-manager",
+              "swift",
+              "swiftui",
+              "xcode",
+              "xcode-deriveddata"
+            ]
           },
           "first_seen": "2026-08-28T20:57:44.810Z"
         }
@@ -486,12 +888,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "📝 CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.",
+            "homepage": "https://codeedit.app",
             "id": 468515960,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2026-08-18T21:24:35Z",
+            "open_issues": 211,
             "owner": "CodeEditApp",
             "repo": "CodeEdit",
-            "stars": 22998
+            "stars": 23000,
+            "topics": [
+              "app",
+              "appkit",
+              "apple",
+              "code",
+              "code-edit",
+              "code-editor",
+              "editor",
+              "ide",
+              "ios",
+              "mac",
+              "macos",
+              "open-source",
+              "swift",
+              "swiftui",
+              "xcode"
+            ]
           },
           "first_seen": "2026-08-28T20:57:44.810Z"
         },
@@ -502,12 +925,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "VimR — Neovim GUI for macOS in Swift",
+            "homepage": "https://twitter.com/VimRefined",
             "id": 17300388,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2026-08-28T15:36:51Z",
+            "open_issues": 314,
             "owner": "qvacua",
             "repo": "vimr",
-            "stars": 6990
+            "stars": 6991,
+            "topics": [
+              "cocoa",
+              "macos",
+              "neovim",
+              "neovim-clients",
+              "neovim-experience",
+              "neovim-guis",
+              "objective-c",
+              "swift",
+              "vim"
+            ]
           },
           "first_seen": "2026-08-28T20:57:44.810Z"
         },
@@ -518,12 +956,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A tiny, fast scratchpad and clipboard manager for Mac",
+            "homepage": "https://itsypad.app",
             "id": 1152447423,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2026-08-15T16:25:29Z",
+            "open_issues": 16,
             "owner": "nickustinov",
             "repo": "itsypad-macos",
-            "stars": 419
+            "stars": 419,
+            "topics": [
+              "clipboard-manager",
+              "macos",
+              "menubar-app",
+              "notes",
+              "scratchpad",
+              "swift"
+            ]
           },
           "first_seen": "2026-08-28T20:57:44.810Z"
         },
@@ -534,12 +984,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A native Swift editor for code and Markdown across macOS, iPadOS, iOS, and visionOS.",
+            "homepage": "https://h3pdesign.github.io/Neon-Vision-Editor/",
             "id": 1044870411,
             "language": "Swift",
-            "last_commit": "2026-08-28T19:52:45Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T02:41:37Z",
+            "open_issues": 5,
             "owner": "h3pdesign",
             "repo": "Neon-Vision-Editor",
-            "stars": 388
+            "stars": 388,
+            "topics": [
+              "appkit",
+              "code-editor",
+              "developer-tools",
+              "ios",
+              "ipados",
+              "macos",
+              "markdown",
+              "swift",
+              "swiftui",
+              "syntax-highlighting",
+              "uikit",
+              "visionos"
+            ]
           },
           "first_seen": "2026-08-28T20:57:44.810Z"
         }
@@ -556,12 +1024,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A tiling window manager for macOS based on binary space partitioning",
+            "homepage": null,
             "id": 184909163,
             "language": "C",
+            "license": "MIT",
             "last_commit": "2026-06-14T12:40:07Z",
+            "open_issues": 251,
             "owner": "asmvik",
             "repo": "yabai",
-            "stars": 29523
+            "stars": 29522,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:57:44.810Z"
         },
@@ -572,12 +1045,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Window management made elegant.",
+            "homepage": null,
             "id": 592882602,
             "language": "Swift",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-09T16:22:23Z",
+            "open_issues": 61,
             "owner": "mrkai77",
             "repo": "Loop",
-            "stars": 11455
+            "stars": 11454,
+            "topics": [
+              "macos",
+              "macos-app",
+              "menu",
+              "productivity",
+              "radial-menu",
+              "swift",
+              "swiftui",
+              "window-management"
+            ]
           },
           "first_seen": "2026-08-28T20:57:44.810Z"
         }
@@ -586,15 +1073,36 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T20:57:44.810Z",
+    "last_updated": "2026-08-29T04:30:14.562Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Best Native macOS Apps (2026) — Fast, Lightweight, No Electron Bloat",
+      "homepage": "https://nativemacapps.substack.com",
       "id": 940594927,
       "language": "Shell",
+      "license": "MIT",
       "last_commit": "2026-08-28T09:07:57Z",
+      "open_issues": 65,
       "owner": "open-saas-directory",
       "repo": "awesome-native-macosx-apps",
-      "stars": 1490
+      "stars": 1490,
+      "topics": [
+        "awesome-list",
+        "awesome-mac",
+        "awesome-macos",
+        "desktop-apps",
+        "lightweight",
+        "mac-apps",
+        "macos",
+        "macos-app",
+        "macos-apps",
+        "menu-bar-apps",
+        "native-apps",
+        "open-source",
+        "productivity",
+        "swiftui",
+        "utilities"
+      ]
     },
     "original_repository_sha": "6406b8eb9e3534084b9d7a204130a8e90ff35ec5",
     "enhanced_repository": "enhansome/enhansome-native-macosx-apps",

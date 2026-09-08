@@ -91,7 +91,7 @@ Not sure where to begin? These 6 apps are the most universally useful — instal
 | App                                                                                      | Why it's essential                                                                                                 |
 | ---------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
 | [Rectangle](https://rectangleapp.com/)                                                   | Snap windows into place with keyboard shortcuts. You'll use this every single day.                                 |
-| [Maccy](https://github.com/p0deje/Maccy) ⭐ 21,504 \| 🐛 168 \| 🌐 Swift \| 📅 2026-09-04 | Clipboard history that just works. Never lose a copied item again.                                                 |
+| [Maccy](https://github.com/p0deje/Maccy) ⭐ 21,522 \| 🐛 170 \| 🌐 Swift \| 📅 2026-09-04 | Clipboard history that just works. Never lose a copied item again.                                                 |
 | [IINA](https://iina.io/)                                                                 | Plays any video format natively. Makes QuickTime feel like a toy.                                                  |
 | [AppCleaner](https://freemacsoft.net/appcleaner/)                                        | Uninstall apps properly — removes all leftover files, not just the `.app`.                                         |
 | [iTerm2](https://iterm2.com/)                                                            | The terminal macOS should have shipped with. Tabs, split panes, search, and more.                                  |
@@ -124,14 +124,14 @@ curl -sL https://raw.githubusercontent.com/open-saas-directory/awesome-native-ma
 
 ## Analytics & Monitoring
 
-* [Stats](https://github.com/exelban/stats) ⭐ 41,651 | 🐛 20 | 🌐 Swift | 📅 2026-09-06 - macOS system monitor for CPU, GPU, memory, disk, and more. `Free` `Open Source`
+* [Stats](https://github.com/exelban/stats) ⭐ 41,662 | 🐛 20 | 🌐 Swift | 📅 2026-09-06 - macOS system monitor for CPU, GPU, memory, disk, and more. `Free` `Open Source`
 * [iStat Menus](https://bjango.com/mac/istatmenus/) - Advanced Mac system monitor in your menu bar. `Paid`
 * [Usage](https://usage.pro) - System activity monitor for macOS, iOS, and iPadOS. `Freemium`
 
 ## Audio & Music
 
-* [BackgroundMusic](https://github.com/kyleneideck/BackgroundMusic) ⭐ 19,271 | 🐛 542 | 🌐 C++ | 📅 2026-06-10 - macOS audio utility to control volume per-app. `Free` `Open Source`
-* [Petrichor](https://github.com/kushalpandya/Petrichor) ⭐ 1,657 | 🐛 15 | 🌐 Swift | 📅 2026-09-04 - Offline music player with support for over 20 file formats and a lot of other features. `Free` `Open Source`
+* [BackgroundMusic](https://github.com/kyleneideck/BackgroundMusic) ⭐ 19,274 | 🐛 542 | 🌐 C++ | 📅 2026-06-10 - macOS audio utility to control volume per-app. `Free` `Open Source`
+* [Petrichor](https://github.com/kushalpandya/Petrichor) ⭐ 1,660 | 🐛 17 | 🌐 Swift | 📅 2026-09-04 - Offline music player with support for over 20 file formats and a lot of other features. `Free` `Open Source`
 * [Cog](https://cog.losno.co/) - Audio player for macOS with broad format support. `Free` `Open Source`
 * [eqMac](https://eqmac.app/) - System-wide audio equalizer for macOS. `Free` `Open Source`
 * [IINA](https://iina.io/) - Modern video player with native macOS design. `Free` `Open Source`
@@ -154,12 +154,12 @@ curl -sL https://raw.githubusercontent.com/open-saas-directory/awesome-native-ma
 
 * [Fantastical](https://flexibits.com/fantastical) - Calendar app with natural language input. `Subscription`
 * [Itsycal](https://www.mowglii.com/itsycal/) - Tiny menu bar calendar. `Free` `Open Source`
-* [Meeting Bar](https://github.com/leits/MeetingBar) ⭐ 5,329 | 🐛 138 | 🌐 Swift | 📅 2026-08-17 - Menu bar app for your calendar meetings. `Free` `Open Source`
+* [Meeting Bar](https://github.com/leits/MeetingBar) ⭐ 5,331 | 🐛 138 | 🌐 Swift | 📅 2026-08-17 - Menu bar app for your calendar meetings. `Free` `Open Source`
 
 ## Clipboard Managers
 
-* [Maccy](https://github.com/p0deje/Maccy) ⭐ 21,504 | 🐛 168 | 🌐 Swift | 📅 2026-09-04 - Lightweight clipboard manager with search. `Free` `Open Source`
-* [Pesty](https://github.com/momenbasel/pesty) ⭐ 59 | 🐛 22 | 🌐 Swift | 📅 2026-08-12 - Native clipboard manager with pinboards and keyboard-driven pasting. `Free` `Open Source`
+* [Maccy](https://github.com/p0deje/Maccy) ⭐ 21,522 | 🐛 170 | 🌐 Swift | 📅 2026-09-04 - Lightweight clipboard manager with search. `Free` `Open Source`
+* [Pesty](https://github.com/momenbasel/pesty) ⭐ 60 | 🐛 22 | 🌐 Swift | 📅 2026-08-12 - Native clipboard manager with pinboards and keyboard-driven pasting. `Free` `Open Source`
 * [CopyClip](https://fiplab.com/apps/copyclip-for-mac) - Lightweight clipboard history manager. `Free`
 * [Paste](https://pasteapp.io/) - Beautiful clipboard manager with cloud sync. `Subscription`
 * [Unclutter](https://unclutterapp.com/) - Files, notes, and clipboard manager in one. `Paid`
@@ -184,8 +184,8 @@ curl -sL https://raw.githubusercontent.com/open-saas-directory/awesome-native-ma
 
 ## Developer Tools
 
-* [CodeEdit](https://github.com/CodeEditApp/CodeEdit) ⭐ 23,008 | 🐛 213 | 🌐 Swift | 📅 2026-08-18 - Native code editor for macOS. `Free` `Open Source`
-* [DevCleaner](https://github.com/vashpan/xcode-dev-cleaner) ⭐ 1,605 | 🐛 17 | 🌐 Swift | 📅 2026-05-18 - Clean Xcode cache and derived data. `Free` `Open Source`
+* [CodeEdit](https://github.com/CodeEditApp/CodeEdit) ⭐ 23,010 | 🐛 213 | 🌐 Swift | 📅 2026-08-18 - Native code editor for macOS. `Free` `Open Source`
+* [DevCleaner](https://github.com/vashpan/xcode-dev-cleaner) ⭐ 1,606 | 🐛 17 | 🌐 Swift | 📅 2026-05-18 - Clean Xcode cache and derived data. `Free` `Open Source`
 * [SSH Keys Manager](https://github.com/Stmol/ssh-keys-manager-macos-app) ⭐ 226 | 🐛 0 | 🌐 Swift | 📅 2026-07-03 - Native macOS app for managing SSH keys and SSH config entries. `Free` `Open Source`
 * [BucketMate](https://bucketmate.app/) - Native S3 GUI Client for macOS `Freemium`
 * [DevUtils](https://devutils.com/) - All-in-one offline toolbox for developers (42+ tools). `Freemium`
@@ -193,6 +193,7 @@ curl -sL https://raw.githubusercontent.com/open-saas-directory/awesome-native-ma
 * [Proxyman](https://proxyman.io/) - Native HTTP debugging proxy. `Freemium`
 * [RocketSim](https://www.rocketsim.app/) - Enhance Xcode Simulator productivity. `Freemium`
 * [Rockxy](https://rockxy.io) - macOS HTTP/HTTPS debugging proxy to capture, inspect, modify, and replay traffic. `Freemium` `Open Source`
+* [SnipperApp 3](https://snipperapp.com) - Code snippet manager with iCloud and Gist sync, and a bundled MCP server. `Paid (one-time)`
 * [SF Symbols](https://developer.apple.com/sf-symbols/) - Browse and export Apple's SF Symbols. `Free`
 * [Vibedock](https://vibedock.dev/) - Manage Claude Code MCP servers from your macOS menu bar. `Paid (one-time)`
 
@@ -249,11 +250,11 @@ curl -sL https://raw.githubusercontent.com/open-saas-directory/awesome-native-ma
 
 ## Menu Bar Apps
 
-* [Hidden Bar](https://github.com/dwarvesf/hidden) ⭐ 14,675 | 🐛 100 | 🌐 Swift | 📅 2026-06-15 - Hide menu bar items. `Free` `Open Source`
+* [Hidden Bar](https://github.com/dwarvesf/hidden) ⭐ 14,680 | 🐛 101 | 🌐 Swift | 📅 2026-06-15 - Hide menu bar items. `Free` `Open Source`
 * [Dozer](https://github.com/Mortennn/Dozer) ⭐ 8,719 | 🐛 101 | 🌐 Swift | 📅 2023-11-30 - Hide menu bar icons to give your Mac a cleaner look. `Free` `Open Source`
 * [Itsyhome](https://github.com/nickustinov/itsyhome-macos) ⭐ 984 | 🐛 20 | 🌐 Swift | 📅 2026-09-01 - Smart home meets menu bar. `Freemium` `Open Source`
 * [DatWeatherDoe](https://github.com/inderdhir/DatWeatherDoe) ⭐ 538 | 🐛 3 | 🌐 Swift | 📅 2026-03-06 - Simple menu bar weather app. `Free` `Open Source`
-* [Holeberry](https://github.com/pedrovieira/Holeberry) ⭐ 84 | 🐛 1 | 🌐 Swift | 📅 2026-09-06 - Monitor and control your Pi-hole instances from the menu bar. `Free` `Open Source`
+* [Holeberry](https://github.com/pedrovieira/Holeberry) ⭐ 84 | 🐛 1 | 🌐 Swift | 📅 2026-09-07 - Monitor and control your Pi-hole instances from the menu bar. `Free` `Open Source`
 * [OpenQuack](https://github.com/larryxiao/openquack) ⭐ 52 | 🐛 12 | 🌐 Swift | 📅 2026-08-31 - Transcribes a 5-minute clip in 2.8 s — local WhisperKit dictation, noise-robust. \~8 MB native Swift. `Free` `Open Source`
 * [Headroom](https://github.com/patwalls/headroom) ⭐ 10 | 🐛 3 | 🌐 JavaScript | 📅 2026-06-26 - Live Claude Code session (5h) and weekly (7d) usage in your menu bar — zero network calls, reads what Claude Code already writes locally. `Free` `Open Source`
 * [Thaw](https://github.com/stonerl/Thaw) ⭐ 10 | 🐛 6 | 📅 2026-09-05 - Powerful menu bar management tool. Fork of Ice, lower resource usage. `Free` `Open Source`
@@ -271,7 +272,7 @@ curl -sL https://raw.githubusercontent.com/open-saas-directory/awesome-native-ma
 
 ## Network Tools
 
-* [Holeberry](https://github.com/pedrovieira/Holeberry) ⭐ 84 | 🐛 1 | 🌐 Swift | 📅 2026-09-06 - Monitor and control your Pi-hole instances from the menu bar. `Free` `Open Source`
+* [Holeberry](https://github.com/pedrovieira/Holeberry) ⭐ 84 | 🐛 1 | 🌐 Swift | 📅 2026-09-07 - Monitor and control your Pi-hole instances from the menu bar. `Free` `Open Source`
 * [Little Snitch](https://www.obdev.at/products/littlesnitch/) - Network monitor and firewall. `Paid` `EU`
 * [Micro Snitch](https://www.obdev.at/products/microsnitch/) - Monitor camera and microphone access. `Paid` `EU`
 * [NetNewsWire](https://netnewswire.com/) - RSS reader for macOS. `Free` `Open Source`
@@ -281,7 +282,7 @@ curl -sL https://raw.githubusercontent.com/open-saas-directory/awesome-native-ma
 
 ## Note-Taking & Writing
 
-* [Knopo](https://github.com/alkalim/Knopo) ⭐ 37 | 🐛 1 | 🌐 Swift | 📅 2026-09-06 - Local-first Markdown outliner with backlinks and queries. `Free` `Open Source`
+* [Knopo](https://github.com/alkalim/Knopo) ⭐ 38 | 🐛 1 | 🌐 Swift | 📅 2026-09-06 - Local-first Markdown outliner with backlinks and queries. `Free` `Open Source`
 * [Bear](https://bear.app/) - Beautiful, flexible writing app. `Freemium` `EU`
 * [Craft](https://www.craft.do/) - Native document editor with sharing. `Freemium`
 * [DEVONthink](https://www.devontechnologies.com/apps/devonthink) - Document and information management. `Paid`
@@ -339,7 +340,7 @@ curl -sL https://raw.githubusercontent.com/open-saas-directory/awesome-native-ma
 
 ## Security & Privacy
 
-* [Lockpaw](https://github.com/sorkila/lockpaw) ⭐ 148 | 🐛 3 | 🌐 Swift | 📅 2026-09-06 - Lock the screen while background tasks, builds, and AI agents keep running. `Free` `Open Source`
+* [Lockpaw](https://github.com/sorkila/lockpaw) ⭐ 148 | 🐛 3 | 🌐 Swift | 📅 2026-09-08 - Lock the screen while background tasks, builds, and AI agents keep running. `Free` `Open Source`
 * [Cryptomator](https://cryptomator.org/) - Multi-platform client-side encryption. `Free` `Open Source` `EU`
 * [KnockKnock](https://objective-see.org/products/knockknock.html) - See what's persistently installed on your Mac. `Free` `Open Source`
 * [Little Snitch](https://www.obdev.at/products/littlesnitch/) - Network monitor and firewall. `Paid` `EU`
@@ -350,12 +351,12 @@ curl -sL https://raw.githubusercontent.com/open-saas-directory/awesome-native-ma
 
 ## System Utilities
 
-* [Stats](https://github.com/exelban/stats) ⭐ 41,651 | 🐛 20 | 🌐 Swift | 📅 2026-09-06 - macOS system monitor. `Free` `Open Source`
-* [MonitorControl](https://github.com/MonitorControl/MonitorControl) ⭐ 34,124 | 🐛 23 | 🌐 Swift | 📅 2026-08-31 - Control external monitor brightness & volume like native displays. `Free` `Open Source`
-* [MonitorControl](https://github.com/MonitorControl/MonitorControl) ⭐ 34,124 | 🐛 23 | 🌐 Swift | 📅 2026-08-31 - Control external display brightness and volume. `Free` `Open Source`
-* [Background Music](https://github.com/kyleneideck/BackgroundMusic) ⭐ 19,271 | 🐛 542 | 🌐 C++ | 📅 2026-06-10 - Control audio per-application. `Free` `Open Source`
-* [AlDente](https://github.com/AppHouseKitchen/AlDente-Charge-Limiter) ⭐ 9,174 | 🐛 141 | 🌐 Swift | 📅 2026-08-03 - Charge limiter to extend MacBook battery life. `Freemium` `Open Source`
-* [ClearDisk](https://github.com/bysiber/cleardisk) ⭐ 683 | 🐛 14 | 🌐 Swift | 📅 2026-09-03 - macOS menu bar utility that monitors 44+ developer cache paths and helps reclaim disk space. `Free` `Open Source`
+* [Stats](https://github.com/exelban/stats) ⭐ 41,662 | 🐛 20 | 🌐 Swift | 📅 2026-09-06 - macOS system monitor. `Free` `Open Source`
+* [MonitorControl](https://github.com/MonitorControl/MonitorControl) ⭐ 34,131 | 🐛 23 | 🌐 Swift | 📅 2026-08-31 - Control external monitor brightness & volume like native displays. `Free` `Open Source`
+* [MonitorControl](https://github.com/MonitorControl/MonitorControl) ⭐ 34,131 | 🐛 23 | 🌐 Swift | 📅 2026-08-31 - Control external display brightness and volume. `Free` `Open Source`
+* [Background Music](https://github.com/kyleneideck/BackgroundMusic) ⭐ 19,274 | 🐛 542 | 🌐 C++ | 📅 2026-06-10 - Control audio per-application. `Free` `Open Source`
+* [AlDente](https://github.com/AppHouseKitchen/AlDente-Charge-Limiter) ⭐ 9,175 | 🐛 141 | 🌐 Swift | 📅 2026-08-03 - Charge limiter to extend MacBook battery life. `Freemium` `Open Source`
+* [ClearDisk](https://github.com/bysiber/cleardisk) ⭐ 686 | 🐛 14 | 🌐 Swift | 📅 2026-09-03 - macOS menu bar utility that monitors 44+ developer cache paths and helps reclaim disk space. `Free` `Open Source`
 * [AppCleaner](https://freemacsoft.net/appcleaner/) - Thoroughly uninstall unwanted apps. `Free`
 * [coconutBattery](https://www.coconut-flavour.com/coconutbattery/) - Check battery health and status. `Free`
 * [DaisyDisk](https://daisydiskapp.com/) - Analyze disk usage and free up space. `Paid`
@@ -382,10 +383,10 @@ curl -sL https://raw.githubusercontent.com/open-saas-directory/awesome-native-ma
 
 ## Text Editors
 
-* [CodeEdit](https://github.com/CodeEditApp/CodeEdit) ⭐ 23,008 | 🐛 213 | 🌐 Swift | 📅 2026-08-18 - Native code editor for macOS. `Free` `Open Source`
-* [VimR](https://github.com/qvacua/vimr) ⭐ 6,992 | 🐛 314 | 🌐 Swift | 📅 2026-08-28 - Neovim GUI for macOS. `Free` `Open Source`
+* [CodeEdit](https://github.com/CodeEditApp/CodeEdit) ⭐ 23,010 | 🐛 213 | 🌐 Swift | 📅 2026-08-18 - Native code editor for macOS. `Free` `Open Source`
+* [VimR](https://github.com/qvacua/vimr) ⭐ 6,994 | 🐛 314 | 🌐 Swift | 📅 2026-08-28 - Neovim GUI for macOS. `Free` `Open Source`
 * [Itsypad](https://github.com/nickustinov/itsypad-macos) ⭐ 425 | 🐛 18 | 🌐 Swift | 📅 2026-08-15 - A tiny, fast scratchpad and clipboard manager. `Free` `Open Source`
-* [Neon Vision Editor](https://github.com/h3pdesign/Neon-Vision-Editor) ⭐ 414 | 🐛 3 | 🌐 Swift | 📅 2026-09-07 - A lightweight and modern macOS code editor. `Free` `Open Source`
+* [Neon Vision Editor](https://github.com/h3pdesign/Neon-Vision-Editor) ⭐ 417 | 🐛 3 | 🌐 Swift | 📅 2026-09-08 - A lightweight and modern macOS code editor. `Free` `Open Source`
 * [BBEdit](https://www.barebones.com/products/bbedit/) - Professional text and code editor. `Paid`
 * [CotEditor](https://coteditor.com/) - Lightweight plain-text editor. `Free` `Open Source`
 * [MacVim](https://macvim.org/) - Vim text editor for macOS. `Free` `Open Source`
@@ -397,7 +398,7 @@ curl -sL https://raw.githubusercontent.com/open-saas-directory/awesome-native-ma
 
 * [HandBrake](https://handbrake.fr/) - Open source video transcoder. `Free` `Open Source`
 * [IINA](https://iina.io/) - Modern media player for macOS. `Free` `Open Source`
-* [Itsytv](https://github.com/nickustinov/itsytv-macos) ⭐ 622 | 🐛 3 | 🌐 Swift | 📅 2026-09-01 - The missing Apple TV remote app. `Free` `Open Source`
+* [Itsytv](https://github.com/nickustinov/itsytv-macos) ⭐ 623 | 🐛 3 | 🌐 Swift | 📅 2026-09-01 - The missing Apple TV remote app. `Free` `Open Source`
 * [Movist Pro](https://movistprime.com/) - Powerful movie player for macOS. `Paid`
 * [Permute](https://software.charliemonroe.net/permute/) - Easy-to-use media converter. `Paid`
 * [QuickTime Player](https://support.apple.com/guide/quicktime-player/) - Built-in media player for macOS. `Free`
@@ -410,8 +411,8 @@ curl -sL https://raw.githubusercontent.com/open-saas-directory/awesome-native-ma
 
 ## Window Management
 
-* [Yabai](https://github.com/koekeishiya/yabai) ⭐ 29,566 | 🐛 252 | 🌐 C | 📅 2026-06-14 - Tiling window manager for macOS. `Free` `Open Source`
-* [Loop](https://github.com/MrKai77/Loop) ⭐ 11,526 | 🐛 64 | 🌐 Swift | 📅 2026-09-07 - Window management made elegant. `Free` `Open Source`
+* [Yabai](https://github.com/koekeishiya/yabai) ⭐ 29,574 | 🐛 253 | 🌐 C | 📅 2026-06-14 - Tiling window manager for macOS. `Free` `Open Source`
+* [Loop](https://github.com/MrKai77/Loop) ⭐ 11,530 | 🐛 64 | 🌐 Swift | 📅 2026-09-08 - Window management made elegant. `Free` `Open Source`
 * [Amethyst](https://ianyh.com/amethyst/) - Automatic tiling window manager. `Free` `Open Source`
 * [BetterSnapTool](https://folivora.ai/bettersnaptool) - Window management via snap areas. `Paid` `EU`
 * [Divvy](https://mizage.com/divvy/) - Window management at its finest. `Paid`
@@ -485,4 +486,4 @@ This list is brought to you by [opensaas.directory](https://opensaas.directory) 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-08._

@@ -16,10 +16,10 @@
             "language": "Swift",
             "license": "MIT",
             "last_commit": "2026-09-04T21:41:11Z",
-            "open_issues": 168,
+            "open_issues": 170,
             "owner": "p0deje",
             "repo": "Maccy",
-            "stars": 21504,
+            "stars": 21522,
             "topics": [
               "clipboard-manager",
               "maccy",
@@ -50,7 +50,7 @@
             "open_issues": 20,
             "owner": "exelban",
             "repo": "stats",
-            "stars": 41651,
+            "stars": 41662,
             "topics": [
               "battery",
               "bluetooth",
@@ -92,7 +92,7 @@
             "open_issues": 542,
             "owner": "kyleneideck",
             "repo": "BackgroundMusic",
-            "stars": 19271,
+            "stars": 19274,
             "topics": [
               "audio",
               "audio-utility",
@@ -116,10 +116,10 @@
             "language": "Swift",
             "license": "MIT",
             "last_commit": "2026-09-04T02:39:00Z",
-            "open_issues": 15,
+            "open_issues": 17,
             "owner": "kushalpandya",
             "repo": "Petrichor",
-            "stars": 1657,
+            "stars": 1660,
             "topics": [
               "audio-player",
               "desktop-app",
@@ -153,10 +153,10 @@
             "language": "Swift",
             "license": "MIT",
             "last_commit": "2026-09-04T21:41:11Z",
-            "open_issues": 168,
+            "open_issues": 170,
             "owner": "p0deje",
             "repo": "Maccy",
-            "stars": 21504,
+            "stars": 21522,
             "topics": [
               "clipboard-manager",
               "maccy",
@@ -181,7 +181,7 @@
             "open_issues": 22,
             "owner": "momenbasel",
             "repo": "pesty",
-            "stars": 59,
+            "stars": 60,
             "topics": [
               "appkit",
               "clipboard",
@@ -229,7 +229,7 @@
             "open_issues": 213,
             "owner": "CodeEditApp",
             "repo": "CodeEdit",
-            "stars": 23008,
+            "stars": 23010,
             "topics": [
               "app",
               "appkit",
@@ -266,7 +266,7 @@
             "open_issues": 17,
             "owner": "vashpan",
             "repo": "xcode-dev-cleaner",
-            "stars": 1605,
+            "stars": 1606,
             "topics": []
           },
           "first_seen": "2026-08-28T20:57:44.810Z"
@@ -317,10 +317,10 @@
             "language": "Swift",
             "license": "MIT",
             "last_commit": "2026-06-15T19:25:30Z",
-            "open_issues": 100,
+            "open_issues": 101,
             "owner": "dwarvesf",
             "repo": "hidden",
-            "stars": 14675,
+            "stars": 14680,
             "topics": [
               "macos",
               "swift",
@@ -427,7 +427,7 @@
             "id": 1265408951,
             "language": "Swift",
             "license": "MIT",
-            "last_commit": "2026-09-06T19:16:38Z",
+            "last_commit": "2026-09-07T18:15:13Z",
             "open_issues": 1,
             "owner": "pedrovieira",
             "repo": "Holeberry",
@@ -558,7 +558,7 @@
             "id": 1265408951,
             "language": "Swift",
             "license": "MIT",
-            "last_commit": "2026-09-06T19:16:38Z",
+            "last_commit": "2026-09-07T18:15:13Z",
             "open_issues": 1,
             "owner": "pedrovieira",
             "repo": "Holeberry",
@@ -602,7 +602,7 @@
             "open_issues": 1,
             "owner": "alkalim",
             "repo": "Knopo",
-            "stars": 37,
+            "stars": 38,
             "topics": [
               "knowledge-management",
               "local-first",
@@ -637,7 +637,7 @@
             "id": 1186242047,
             "language": "Swift",
             "license": "MIT",
-            "last_commit": "2026-09-06T13:11:37Z",
+            "last_commit": "2026-09-08T06:53:55Z",
             "open_issues": 3,
             "owner": "sorkila",
             "repo": "lockpaw",
@@ -685,7 +685,7 @@
             "open_issues": 20,
             "owner": "exelban",
             "repo": "stats",
-            "stars": 41651,
+            "stars": 41662,
             "topics": [
               "battery",
               "bluetooth",
@@ -721,7 +721,7 @@
             "open_issues": 23,
             "owner": "MonitorControl",
             "repo": "MonitorControl",
-            "stars": 34124,
+            "stars": 34131,
             "topics": [
               "apple",
               "brightness",
@@ -761,7 +761,7 @@
             "open_issues": 23,
             "owner": "MonitorControl",
             "repo": "MonitorControl",
-            "stars": 34124,
+            "stars": 34131,
             "topics": [
               "apple",
               "brightness",
@@ -801,7 +801,7 @@
             "open_issues": 542,
             "owner": "kyleneideck",
             "repo": "BackgroundMusic",
-            "stars": 19271,
+            "stars": 19274,
             "topics": [
               "audio",
               "audio-utility",
@@ -828,7 +828,7 @@
             "open_issues": 141,
             "owner": "AppHouseKitchen",
             "repo": "AlDente-Battery_Care_and_Monitoring",
-            "stars": 9174,
+            "stars": 9175,
             "topics": []
           },
           "first_seen": "2026-08-28T20:57:44.810Z"
@@ -849,7 +849,7 @@
             "open_issues": 14,
             "owner": "bysiber",
             "repo": "cleardisk",
-            "stars": 683,
+            "stars": 686,
             "topics": [
               "cache-cleaner",
               "developer-tools",
@@ -897,7 +897,7 @@
             "open_issues": 213,
             "owner": "CodeEditApp",
             "repo": "CodeEdit",
-            "stars": 23008,
+            "stars": 23010,
             "topics": [
               "app",
               "appkit",
@@ -934,7 +934,7 @@
             "open_issues": 314,
             "owner": "qvacua",
             "repo": "vimr",
-            "stars": 6992,
+            "stars": 6994,
             "topics": [
               "cocoa",
               "macos",
@@ -989,11 +989,11 @@
             "id": 1044870411,
             "language": "Swift",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-07T08:54:35Z",
+            "last_commit": "2026-09-08T08:36:02Z",
             "open_issues": 3,
             "owner": "h3pdesign",
             "repo": "Neon-Vision-Editor",
-            "stars": 414,
+            "stars": 417,
             "topics": [
               "appkit",
               "code-editor",
@@ -1030,10 +1030,10 @@
             "language": "C",
             "license": "MIT",
             "last_commit": "2026-06-14T12:40:07Z",
-            "open_issues": 252,
+            "open_issues": 253,
             "owner": "asmvik",
             "repo": "yabai",
-            "stars": 29566,
+            "stars": 29574,
             "topics": []
           },
           "first_seen": "2026-08-28T20:57:44.810Z"
@@ -1050,11 +1050,11 @@
             "id": 592882602,
             "language": "Swift",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-07T05:03:02Z",
+            "last_commit": "2026-09-08T01:23:25Z",
             "open_issues": 64,
             "owner": "mrkai77",
             "repo": "Loop",
-            "stars": 11526,
+            "stars": 11530,
             "topics": [
               "macos",
               "macos-app",
@@ -1073,7 +1073,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T15:08:41.134Z",
+    "last_updated": "2026-09-08T13:46:16.751Z",
     "original_repository_info": {
       "archived": false,
       "description": "Best Native macOS Apps (2026) — Fast, Lightweight, No Electron Bloat",
@@ -1081,8 +1081,8 @@
       "id": 940594927,
       "language": "Shell",
       "license": "MIT",
-      "last_commit": "2026-09-01T07:34:57Z",
-      "open_issues": 71,
+      "last_commit": "2026-09-08T08:39:32Z",
+      "open_issues": 70,
       "owner": "open-saas-directory",
       "repo": "awesome-native-macosx-apps",
       "stars": 1500,
@@ -1104,7 +1104,7 @@
         "utilities"
       ]
     },
-    "original_repository_sha": "6406b8eb9e3534084b9d7a204130a8e90ff35ec5",
+    "original_repository_sha": "c9be918c562b45a79cfcbe0795c53f5672a0d152",
     "enhanced_repository": "enhansome/enhansome-native-macosx-apps",
     "enhanced_repository_description": null,
     "title": "Awesome Best MacOS Apps (2026) — Fast, Lightweight, No Electron (2026) with stars"
